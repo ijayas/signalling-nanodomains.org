@@ -1,7 +1,7 @@
 
 # ijayas's Website
 
-Visit **[ijayas.github.io/jayasinghe-lab-unsw](https://ijayas.github.io/jayasinghe-lab-unsw)** 🚀
+Visit **[nano-biology.com](http://nano-biology.com)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
