@@ -7,7 +7,7 @@ aliases:
   - I Jayasinghe
 links:
   home-page: [https://www.linkedin.com/in/izzy-jayasinghe/]
-  orcid: 0000-0003-2461-478X
+  twitter: i_jayas
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
