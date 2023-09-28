@@ -11,7 +11,7 @@ We are a team of biomedical and biophysical scientists who harness the latest si
 
 {% capture text %}
 
-Most physiologies and pathophysiologies can be traced down to the spatial organisation and physical interactions (in the form of structural or functional coupling) inside cells. We study signalling proteins in their organisation, chemical configuration, and partnering molecules in situ to understand their biology in their native environment. We use optical super-resolution mircroscopies to localise these proteins, alongside the dozens of key partner proteins in various cell types including muscle, neuronal and tumour cells.
+Most of the primary functions of the body can be traced down to the spatial organisation and interactions of biomolecules such as proteins and nucleic acids in cells. We study signalling proteins in their spatial organisation, chemical configuration, and their communication with partnering molecules in situ. Studying these features of individual and groups proteins in their native environment gives us a unique window into the fundamental rules of life, health, and disease. To visualise these biomolecules with the highest precision use optical super-resolution microscopy techniques such as localisation microscopy and expansion microscopy.
 
 {%
   include button.html
@@ -27,7 +27,7 @@ Most physiologies and pathophysiologies can be traced down to the spatial organi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/superres.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -35,7 +35,7 @@ Most physiologies and pathophysiologies can be traced down to the spatial organi
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We currently work on a number of research questions. What are the networks of molecules that regulate the calcium signals that drive the heartbeat? What is the 3D organisation of molecules in signalling domains on the surfaces of neurons? What are the molecular machinery that regulate membrane-bound organelles and vesicles in tumour cells? We also work on developing new biomedical research tools; new, hydrogel-based expansion microscopy protocols that allow us to physicall inflate cells; AI-based tools to recognise patterns in our image data; 3D-printed microscopes and robots. So, whether you are a life or biomedical scientist, or more interested in the physics, engineering or tech, we will have projects that may be of interest to you.
 
 {%
   include button.html
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/plates.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is a diverse group of biomedical and biophysical scientists and engineers. We are from all walks of life, with different skills and experiences that come together to make our science possible.
 
 {%
   include button.html
