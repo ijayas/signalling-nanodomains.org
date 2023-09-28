@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="450px" height="400px" viewBox="0 0 450 400">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="80px" height="80px" viewBox="0 0 80 80">
 <defs>
 <radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="38.900000000000006" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999999, 0, 0, -1.0690874035989717, 71.85,82.45) " spreadMethod="pad">
 <stop  offset="0.39215686274509803%" stop-color="#74F852"/>
@@ -267,52 +267,52 @@ L 600 702.45 605.3 696.4 605.3 693.75 604.5 695.55 599.05 701.8 Z"/>
 </g>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 695.15 718.9
-L 760.8 630.55 754.9 624.65 772.6 601.9 756.6 587.6 735.05 609.1 727.95 603.6 695.15 653.25 670.75 653.25 623.6 718.9 531 718.9 531 696.2 506.55 686.95 506.55 612.85 521.7 583.4 531 583.4 531.8 574.1 563.8 574.1 563.8 596.15 598.35 596.85 599.15 574.1 610.1 574.1 610.1 557.3 599.15 547.2 531.8 547.2 531 531.2 519.2 531.2 476.25 539.6 476.25 718.9 472.05 718.9 466.15 770.75 712 770.75 695.15 718.9 Z"/>
+M 55.4460334777832 54.71471557617187
+L 71.34464111328123 33.322842407226545 69.91582489013672 31.894296264648432 74.2022735595703 26.38591918945312 70.3275177001953 22.923510742187517 65.10870590209959 28.129229736328142 63.389282989501964 26.797534179687517 55.4460334777832 38.81911315917969 49.53703079223632 38.81911315917969 38.118609619140614 54.71471557617187 15.693460083007807 54.71471557617187 15.693460083007807 49.21844482421878 9.772348785400382 46.97877502441409 9.772348785400382 29.037203979492205 13.441258239746105 21.906579589843744 15.693460083007807 21.906579589843744 15.88719787597654 19.654803466796892 23.63670959472654 19.654803466796892 23.63670959472654 24.993692016601557 32.00376052856444 25.163180541992205 32.1974983215332 19.654803466796892 34.84928436279296 19.654803466796892 34.84928436279296 15.587078857421858 32.1974983215332 13.141601562500028 15.88719787597654 13.141601562500028 15.693460083007807 9.267578125000028 12.835827636718761 9.267578125000028 2.4345298767089787 11.301440429687517 2.4345298767089787 54.71471557617187 1.4174064636230383 54.71471557617187 -0.011409759521498586 67.26897277832032 59.526635742187494 67.26897277832032 55.4460334777832 54.71471557617187 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_1_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 796.5 571
-L 783.05 558.95 769.8 573.8 769.8 578.4 759.2 589.95 769.8 599.4 780.3 586.75 784.45 585.85 796.5 571 Z"/>
+M 79.99019012451171 18.904211425781256
+L 76.73297348022459 15.986587524414091 73.52419128417966 19.582165527343733 73.52419128417966 20.695947265624994 70.95716552734376 23.49250793457034 73.52419128417966 25.780603027343744 76.06699981689451 22.717703247070318 77.07201461791993 22.499789428710955 79.99019012451171 18.904211425781256 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_2_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 596.4 596.8
-L 596.4 639.7 593.2 644.8 571.9 644.8 567.75 639.7 567.75 596.25 596.4 596.8 Z"/>
+M 31.531524658203125 25.151074218749983
+L 31.531524658203125 35.5382995605469 30.756573486328136 36.77314453124998 25.598304748535156 36.77314453124998 24.59328994750976 35.5382995605469 24.59328994750976 25.017904663085943 31.531524658203125 25.151074218749983 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_3_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 630.7 615.4
-L 630.7 626.65 561.15 626.65 561.15 615.4 630.7 615.4 Z"/>
+M 39.83803253173829 29.654626464843744
+L 39.83803253173829 32.37854919433593 22.994953155517578 32.37854919433593 22.994953155517578 29.654626464843744 39.83803253173829 29.654626464843744 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_4_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 528.55 695.25
-L 528.55 675.5 506.55 675.5 506.55 686.95 528.55 695.25 Z"/>
+M 15.100138092040993 48.98842468261719
+L 15.100138092040993 44.20642700195313 9.772348785400382 44.20642700195313 9.772348785400382 46.97877502441409 15.100138092040993 48.98842468261719 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_5_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 636 701.65
-L 636 676.95 653.7 676.95 636 701.65 Z"/>
+M 41.121545410156244 50.53803405761718
+L 41.121545410156244 44.55751037597659 45.407994079589855 44.55751037597659 41.121545410156244 50.53803405761718 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_6_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 650.85 668.6
-L 650.95 676.95 595.05 676.95 595.05 673.8 570.2 673.65 570.2 676.95 518.5 676.95 518.5 668.6 650.85 668.6 Z"/>
+M 44.71780319213866 42.53575439453127
+L 44.74202041625978 44.55751037597659 31.204592132568337 44.55751037597659 31.204592132568337 43.79481201171873 25.186611938476574 43.75849304199218 25.186611938476574 44.55751037597659 12.666307067871088 44.55751037597659 12.666307067871088 42.53575439453127 44.71780319213866 42.53575439453127 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_7_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 601.75 718.9
-L 601.75 713.25 567.75 703.05 567.75 718.9 601.75 718.9 Z"/>
+M 32.827146148681635 54.71471557617187
+L 32.827146148681635 53.34670104980469 24.59328994750976 50.87701110839842 24.59328994750976 54.71471557617187 32.827146148681635 54.71471557617187 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_8_MEMBER_1_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 606.25 714.35
-Q 605.55 710.5 603.25 706.25 598.9 698.35 591.25 695.05 584.05 691.9 576.05 693.55 568.1 695.15 562.2 701.05"/>
+M 33.916921234130854 53.61304016113283
+Q 33.74740066528318 52.68085327148438 33.19040451049804 51.65181579589844 32.13695526123047 49.73901672363283 30.28433761596679 48.93999938964842 28.540697479248024 48.17730102539062 26.603319549560524 48.576809692382795 24.678050231933582 48.96421203613281 23.249234008789074 50.39275817871092"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_9_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 601 703.25
-L 606.25 696.85 606.25 694.6 600.4 689.55 597.9 689.55 591.9 696.4 601 703.25 Z"/>
+M 32.64551696777343 50.92543640136719
+L 33.916921234130854 49.375827026367205 33.916921234130854 48.83104248046877 32.500213623046875 47.608303833007795 31.89478302001953 47.608303833007795 30.441749572753906 49.266870117187494 32.64551696777343 50.92543640136719 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_10_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 590 694.55
-L 590 681.9 587.4 679.75 579.85 679.75 577.5 681.9 577.5 694.55 590 694.55 Z"/>
+M 29.98162231445312 48.818936157226545
+L 29.98162231445312 45.75603637695312 29.351974487304688 45.23546447753907 27.523574066162098 45.23546447753907 26.9544692993164 45.75603637695312 26.9544692993164 48.818936157226545 29.98162231445312 48.818936157226545 Z"/>
 
 <path id="Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_11_1_STROKES" stroke="#1D1D1B" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
-M 575.5 694.55
-L 572.9 690.7 564.05 696.25 566.4 699.05 575.5 694.55 Z"/>
+M 26.470124816894526 48.818936157226545
+L 25.840476989746094 47.88674926757815 23.697252655029274 49.23055114746094 24.266357421875 49.90850524902342 26.470124816894526 48.818936157226545 Z"/>
 
 <path id="FlashAICB_4_Layer_1__Path__1_0_Layer0_0_MEMBER_1_1_STROKES" stroke="#000000" stroke-width="0.25" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
 M 0.4 0.1
@@ -335,7 +335,7 @@ L 24.35 0.15
 Q 24.5 0.15 24.5 2.85 24.5 5.6 24.2 5.6 Z"/>
 </defs>
 
-<g transform="matrix( 1.0688934326171875, 0, 0, 1, 501.9,583.6) ">
+<g transform="matrix( 0.25885009765625, 0, 0, 0.24212646484375, 552.75,630.75) ">
 <mask id="Mask_Mask_1">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use xlink:href="#Mask_FlashAICB_1_Layer_1__Clip_Group__0_2_MASK_0_FILL"/>
@@ -349,103 +349,103 @@ Q 24.5 0.15 24.5 2.85 24.5 5.6 24.2 5.6 Z"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 216.05,267) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, 23.75,43.75) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use filter="url(#Filter_1)" xlink:href="#FlashAICB_Layer_1__Path__1_0_Layer0_0_FILL"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 232.9,267) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, 27.85,43.75) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use filter="url(#Filter_2)" xlink:href="#FlashAICB_Layer_1__Path__0_Layer0_0_FILL"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_1_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_1_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_1_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_2_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_2_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_2_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_3_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_3_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_3_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_4_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_4_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_4_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_5_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_5_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_5_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_6_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_6_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_6_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_7_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_7_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_7_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_8_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_8_MEMBER_1_1_STROKES"/>
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_8_MEMBER_1_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_9_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_9_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_9_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_10_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_10_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_10_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_11_FILL"/>
 
-<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_11_1_STROKES"/>
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_11_1_STROKES" transform="matrix( 4.1292877197265625, 0, 0, 4.13006591796875, 466.15,492.9) "/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_12_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 221.5,258.15) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, 25.05,41.65) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use filter="url(#Filter_3)" xlink:href="#FlashAICB_4_Layer_1__Rectangle__0_Layer0_0_FILL"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 221,256.1) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, 24.95,41.15) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use filter="url(#Filter_4)" xlink:href="#FlashAICB_4_Layer_1__Path__1_0_Layer0_0_MEMBER_0_FILL"/>
 </g>
@@ -455,7 +455,7 @@ Q 24.5 0.15 24.5 2.85 24.5 5.6 24.2 5.6 Z"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 220.45,254.4) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, 24.8,40.7) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use filter="url(#Filter_4)" xlink:href="#FlashAICB_4_Layer_1__Path__0_Layer0_0_MEMBER_0_FILL"/>
 </g>
@@ -465,67 +465,67 @@ Q 24.5 0.15 24.5 2.85 24.5 5.6 24.2 5.6 Z"/>
 </g>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_MEMBER_3_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_3_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_4_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_5_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_6_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_7_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_8_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_9_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_10_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_11_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, -348.25,-406.95) ">
+<g transform="matrix( 0.2421722412109375, 0, 0, 0.24212646484375, -112.9,-119.35) ">
 <use xlink:href="#Layer0_0_MEMBER_12_FILL"/>
 </g>
 </svg>
