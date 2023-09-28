@@ -17,12 +17,12 @@ Most physiologies and pathophysiologies can be traced down to the spatial organi
   include button.html
   link="research"
   title="Single Molecule approach to studying chronic disease"
-  text="See our publications"
+  text="See what we published"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
+{:.center}
 {% endcapture %}
 
 {%
@@ -40,12 +40,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Read about our newest projects"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
+{:.center}
 {% endcapture %}
 
 {%
@@ -65,17 +66,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
+{:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group_photo.jpg"
   link="team"
   title="Our Team"
   text=text
