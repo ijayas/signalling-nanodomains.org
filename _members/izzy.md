@@ -1,6 +1,6 @@
 ---
 name: Izzy Jayasinghe
-image: images/photo1 (1).jpg
+image: images/photo1%20(1).jpg
 role: pi
 aliases:
   - I. Jayasinghe
