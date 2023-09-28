@@ -6,7 +6,7 @@ aliases:
   - I. Jayasinghe
   - I Jayasinghe
 links:
-  home-page: [https://janesmith.com](https://www.linkedin.com/in/izzy-jayasinghe/)
+  home-page: [https://www.linkedin.com/in/izzy-jayasinghe/]
   orcid: 0000-0003-2461-478X
 ---
 
