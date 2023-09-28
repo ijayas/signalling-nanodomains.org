@@ -1,9 +1,9 @@
 ---
 ---
 
-# ijayas's Website
+# Visualising the systems of molecules in sub-cellular communication
 
-An engaging 1-3 sentence description of your lab.
+We are a team of biomedical and biophysical scientists who harness the latest single molecule, optical, and omic technologies to study cell signalling. Our goal is to use our expertise in how signals are transdueced, particularly inside cells, to shed light on the mechanisms driving pathophysiologies such as heart disease, movement disorders, and pain. Towards this goal, we work on developing new methodologies that both we and our scientific community can utilise for advancing our understanding of disease and help drive the development of theraputic strategies.
 
 {% include section.html %}
 
