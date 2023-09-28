@@ -2,7 +2,7 @@
 title: Example post 1
 author: sarah-johnson
 tags:
-  - biology
+  - biophysics
   - medicine
   - big data
 ---
