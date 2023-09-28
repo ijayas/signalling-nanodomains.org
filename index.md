@@ -11,11 +11,12 @@ We are a team of biomedical and biophysical scientists who harness the latest si
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Most physiologies and pathophysiologies can be traced down to the spatial organisation and physical interactions (in the form of structural or functional coupling) inside cells. We study signalling proteins in their organisation, chemical configuration, and partnering molecules in situ to understand their biology in their native environment. We use optical super-resolution mircroscopies to localise these proteins, alongside the dozens of key partner proteins in various cell types including muscle, neuronal and tumour cells.
 
 {%
   include button.html
   link="research"
+  title="Single Molecule approach to studying chronic disease"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
