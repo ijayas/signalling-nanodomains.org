@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Izzy Jayasinghe
+image: images/photo1 (1).jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - I. Jayasinghe
+  - I Jayasinghe
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: [https://janesmith.com](https://www.linkedin.com/in/izzy-jayasinghe/)
+  orcid: 0000-0003-2461-478X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
