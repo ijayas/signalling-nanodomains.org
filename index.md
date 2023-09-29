@@ -15,7 +15,7 @@ Most of the primary functions of the body can be traced down to the spatial orga
   include button.html
   link="research"
   title="Single Molecule approach to studying chronic disease"
-  text="See what we published"
+  text="See what we have published"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
