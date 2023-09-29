@@ -1,6 +1,6 @@
 ---
 name: Dr Izzy Jayasinghe
-image: images/team/izzy.jpg
+image: images/izzy.jpg
 role: pi
 description: Principal Investigator
 aliases:
