@@ -1,1 +1,1 @@
-Sitemap: /signalling-nanodomains.org/sitemap.xml
+Sitemap: /sitemap.xml
