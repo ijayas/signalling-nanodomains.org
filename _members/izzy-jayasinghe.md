@@ -1,8 +1,8 @@
 ---
-name: Izzy Jayasinghe
+name: Dr Izzy Jayasinghe
 image: images/team/some-image.jpg
 role: programmer
-description: pi
+description: Principal Investigator
 aliases:
   - I Jayasinghe
   - I. Jayasinghe
