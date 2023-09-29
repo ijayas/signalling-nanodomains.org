@@ -18,9 +18,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/alt-header.jpg" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
+# {% include icon.html icon="fa-solid fa-users" %}Lab Alumni
 
-{% capture content %}
+{% capture text %}
 Mr Michael Spencer (Research Technician)
 Mr Benjamin H.K. Allouis (MSc Student)
 Ms Rebecca Lavery (MSc Student)
@@ -34,7 +34,6 @@ Dr Ruth Norman (Postdoctoral Research Associate; supervised with PI A/Prof Sarah
 Dr Sabine Lotteu (Postdoctoral Research Associate; supervised with PI A/Prof Sarah Calaghan)
 Dr Kathleen Wright (Senior Technician)
 Tim Munsey (Senior Technician)
-
 {% endcapture %}
 
 
