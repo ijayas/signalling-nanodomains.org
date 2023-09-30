@@ -12,7 +12,7 @@ If you need any further details, please contact our PI via the UNSW webpage or T
 {%
   include button.html
   type="twitter"
-  link="https://twitter.com/i_jayas"
+  link="i_jayas"
 %}
 {%
   include button.html
