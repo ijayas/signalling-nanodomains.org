@@ -532,7 +532,7 @@ window["ExpressiveAnimatorPlayer"](
       
         <a
           href="/contact/"
-          data-tooltip="Email, address, and location"
+          data-tooltip="Twitter and Webpage"
         >
           Contact
         </a>
