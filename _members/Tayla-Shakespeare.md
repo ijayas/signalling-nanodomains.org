@@ -1,7 +1,7 @@
 ---
 name: Tayla Shakespeare (she/her)
 image: images/team/some-image.jpg
-role: PhD
+role: phd
 description: PhD Researcher (Sheffield)
 aliases:
   - T Shakespeare
