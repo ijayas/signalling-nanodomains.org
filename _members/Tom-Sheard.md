@@ -12,9 +12,8 @@ links:
   home-page: https://tmdsheard.github.io/
   webpage: https://sheffield.ac.uk/biosciences/people/mbb-staff/postdoctoral/tom-sheard
   twitter: TMDSheard
+  Linkedin: tommichaelsheard
 
 ---
 
-A bio for Tim, written in Markdown.
-A descriptions of his academic studies, his recent accomplishments, his goals for the future, his likes/dislikes, etc.
-One or two paragraphs is probably best.
+A bio for Tom.
