@@ -1,6 +1,6 @@
 [data-dark=false] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #075985;
+  --secondary: #bae6fd;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -33,9 +33,9 @@
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 2;
+  --spacing: 1;
   --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --shadow: 20 20 10px 0 var(--overlay);
 }
 
 /*# sourceMappingURL=-theme.css.map */
