@@ -1,7 +1,7 @@
 ---
 name: Raj Seehra (he/him)
 image: images/team/some-image.jpg
-role: PhD
+role: phd
 description: PhD Researcher (Sheffield)
 aliases:
   - R.S. Seehra
