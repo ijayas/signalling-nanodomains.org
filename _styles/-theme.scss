@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #075985;
+  --secondary: #bae6fd;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -43,9 +43,9 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 2;
+  --spacing: 1;
 
   // effects
   --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --shadow: 20 20 10px 0 var(--overlay);
 }
