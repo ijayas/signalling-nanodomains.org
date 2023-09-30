@@ -6,6 +6,8 @@ description: Principal Investigator
 aliases:
   - I Jayasinghe
   - I. Jayasinghe
+  - Izzy Jayasinghe
+  - Jayasinghe, Izzy
 links:
   home-page: https://sms.unsw.edu.au/izzy-jayasinghe
   linkedin: izzy-jayasinghe
