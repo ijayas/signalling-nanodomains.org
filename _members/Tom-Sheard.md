@@ -1,5 +1,5 @@
 ---
-name: Dr Tom Sheard
+name: Dr Tom Sheard (he/him)
 image: images/team/some-image.jpg
 role: postdoc
 description: Postdoctoral Research Associate
