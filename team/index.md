@@ -8,8 +8,9 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}The Team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: PhD" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group" %}
+{% include list.html data="members" component="portrait" filters="role: phds, group" %}
 
 {% include section.html background="images/alt-header.jpg" dark=true %}
 
