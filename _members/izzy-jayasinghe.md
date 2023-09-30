@@ -1,5 +1,5 @@
 ---
-name: Dr Izzy Jayasinghe
+name: Dr Izzy Jayasinghe (she/her)
 image: images/izzy.jpg
 role: pi
 description: Principal Investigator
