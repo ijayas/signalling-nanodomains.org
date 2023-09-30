@@ -10,17 +10,17 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group" %}
-{% include list.html data="members" component="portrait" filters="role: sphd, group" %}
+{% include list.html data="members" component="portrait" filters="role: sp, group" %}
 
 {% include section.html background="images/alt-header.jpg" dark=true %}
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
+We want to push the frontier of single molecule science and train the next generation of biomedical researchers.
 
 {%
   include button.html
   icon="fa-solid fa-handshake-angle"
   text="Join the Team"
-  link="join"
+  link="Join"
   style="button"
 %}
 
