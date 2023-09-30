@@ -2,16 +2,14 @@
 name: Tayla Shakespeare (she/her)
 image: images/team/some-image.jpg
 role: PhD
-description: PhD Researcher
+description: PhD Researcher (Sheffield)
 aliases:
   - T Shakespeare
   - T. Shakespeare
 links:
-  home-page: https://tims-website.com/
-  email: tim-member@email.com
-  twitter: tims_twitter
+  home-page: https://www.researchgate.net/profile/Tayla-Shakespeare
+  twitter: T_Shakespeare
+  Linkedin: tayla-shakespeare-521b5814b
 ---
 
-A bio for Tim, written in Markdown.
-A descriptions of his academic studies, his recent accomplishments, his goals for the future, his likes/dislikes, etc.
-One or two paragraphs is probably best.
+A bio for Tayla
