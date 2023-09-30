@@ -7,12 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
@@ -21,11 +15,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture content %}
-
 # {% include icon.html icon="fa-solid fa-users" %}Lab Alumni
 
-{% capture text %}
 - Michael Spencer (Research Technician; 2021-2023)
 - Benjamin H.K. Allouis (MSc Student; 2022-2023)
 - Rebecca Lavery (MSc Student; 2021-2022)
@@ -39,10 +30,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 - Tim Munsey (Senior Technician; 2018-2020)
 - Dr Kathleen Wright (Senior Technician; 2016-2018)
 
-{% endcapture %}
-
-{% endcapture content %}
-
-
+{% include section.html %}
 
 
