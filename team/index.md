@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group" %}
-{% include list.html data="members" component="portrait" filters="role: phds, group" %}
+{% include list.html data="members" component="portrait" filters="role: sphd, group" %}
 
 {% include section.html background="images/alt-header.jpg" dark=true %}
 
