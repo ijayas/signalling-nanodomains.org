@@ -1,47 +1,53 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Accessible super-resolution to all life scientists
+  subtitle: 7-year UKRI Future Leader Fellowship
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/UKRI-project.png
+  link: https://youtu.be/vqkzDOiWVXs?si=4rM2TocuRIrGcpWM
+  description: In a 7-year project funded by UK Research & Innovation, we are developing several innovations that are aimed at making super-resolution microscopy, expansion microscopy in particular, accessible and affordable for life sciences researchers. Amongst some of the work completed so far, we have characterised a series of 14 nondescript stains and 3D printed microplates for expansion microscopy. As a part of this project, we are also applying super-resolution to sample types and sub-fields that have not utilised super-resolution as much as mainstream cell biology. They include imaging thick tissues and whole organisms such as sea urchin larvae. More coming soon.
   tags:
-    - resource
+    - expansion microscopy
+    - rapid prototyping
+    - nondescript staining
+    - democraticing super-resolution
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Linking nanoscale structure with local function
+  subtitle: with correlative super-resolution & calcium imaging
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/correlative.jpg
+  link: https://github.com/ijayas/imagealigning
+  description: We have an ongoing interest in the calcium signals (calcium sparks) produced by intracellular ion channels such as ryanodine receptors and inositol triphosphate receptors. In cardiac muscle cells, ryanodine receptors organised into clusters within distinct signalling nanodomains work together in specific spatial patterns to produce these sparks. In pain sensing neurons from the dorsal root ganglia, these channels are less well clustered and produce much more variable sparks. Using a correlative imaging and analysis pipeline, we have pioneered the methods to visualising and decoding the spatial relationships between these calcium sparks and super-resolution maps of these channels.
+  repo: https://github.com/ijayas/imagealigning
   tags:
-    - resource
+    - Nanodomains
+    - ryanodine receptor
+    - correlative imaging
+    - localisation microscopy
+    - calcium imaging
 
-- title: Cool Tutorial
+- title: More details coming soon
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:  More details coming soon
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title:  More details coming soon
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:  More details coming soon
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
+- title:  More details coming soon
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: More details coming soon
   repo: greenelab/lab-website-template
   tags:
     - software
