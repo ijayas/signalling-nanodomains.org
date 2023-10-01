@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We have a number of projects on the go, and this page outlines some of the main areas of research at present. If these research areas are of interest to you, either to come and work in our team or for collaboration, please get in touch.
 
 {% include tags.html tags="publication, resource, website" %}
 
