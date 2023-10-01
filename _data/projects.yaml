@@ -1,8 +1,7 @@
 - title: Accessible super-resolution to all life scientists
   subtitle: 
   group: featured
-  image: images/UKRI-project.png
-  image height:"100%"
+  image: images/UKRI-project.png height="100%" %
   link: https://youtu.be/vqkzDOiWVXs?si=4rM2TocuRIrGcpWM
   description: In a 7-year project funded by UK Research & Innovation, we are developing several innovations that are aimed at making super-resolution microscopy, expansion microscopy in particular, accessible and affordable for life sciences researchers. Amongst some of the work completed so far, we have characterised a series of 14 nondescript stains and 3D printed microplates for expansion microscopy. As a part of this project, we are also applying super-resolution to sample types and sub-fields that have not utilised super-resolution as much as mainstream cell biology. They include imaging thick tissues and whole organisms such as sea urchin larvae. More coming soon.
   tags:
