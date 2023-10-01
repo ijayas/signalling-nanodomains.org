@@ -20,7 +20,6 @@ Most of the primary functions of the body can be traced down to the spatial orga
 {%
   include button.html
   link="research"
-  title="Single Molecule approach to studying chronic disease"
   text="See what we have published"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -32,6 +31,7 @@ Most of the primary functions of the body can be traced down to the spatial orga
 {%
   include feature.html
   image="images/superres.jpg"
+  width="100%"
   link="research"
   title="Our Research"
   text=text
@@ -39,7 +39,7 @@ Most of the primary functions of the body can be traced down to the spatial orga
 
 {% capture text %}
 
-We currently work on a number of research and technology questions. What are the networks of molecules that regulate the calcium signals that drive the heartbeat? What is the 3D organisation of molecules in signalling domains on the surfaces of neurons? What are the components of the molecular machinery that regulate the shape and sizes of membrane-bound organelles and vesicles in tumour cells? We also work on developing new biomedical research tools. These include new, hydrogel-based expansion microscopy protocols that allow us to physicall inflate cells, AI-based tools to recognise patterns in our image data, bespoke microscopes and 3D printed robots. So, whether you are a life or biomedical scientist, or more interested in the physics, engineering or the tech, we will have projects that will interest to you.
+We currently work on a number of research and technology questions. What are the networks of molecules that regulate the calcium signals that drive the heartbeat? What is the 3D organisation of molecules in signalling domains on the surfaces of neurons? What are the components of the molecular machinery that regulate the shape and sizes of membrane-bound organelles and vesicles in tumour cells? We also work on developing new biomedical research tools. These include new, hydrogel-based expansion microscopy protocols that allow us to physically inflate cells, AI-based tools to recognise patterns in our image data, bespoke microscopes and 3D printed robots. So, whether you are a life or biomedical scientist, or more interested in the physics, engineering or the tech, we will have projects that will interest to you.
 
 {%
   include button.html
@@ -56,6 +56,7 @@ We currently work on a number of research and technology questions. What are the
 {%
   include feature.html
   image="images/plates.jpg"
+  width="100%"
   link="projects"
   title="Our Projects"
   flip=true
@@ -82,6 +83,7 @@ Our team is a diverse group of biomedical and biophysical scientists and enginee
 {%
   include feature.html
   image="images/group-photo-2.jpg"
+  width="100%"
   link="team"
   title="Our Team"
   text=text
