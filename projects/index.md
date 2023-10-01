@@ -17,7 +17,7 @@ We have a number of projects on the go, and this page outlines some of the main 
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" height="100%" filters="group: featured" %}
 
 {% include section.html %}
 
