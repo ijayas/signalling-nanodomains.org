@@ -1,6 +1,6 @@
 ---
 name: Dr Tom Sheard (he/him)
-image: images/team/tom.jpg
+image: images/tom.jpg
 role: postdoc
 description: Postdoctoral Research Associate
 aliases:
