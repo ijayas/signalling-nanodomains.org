@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our peer-reviewed publications include papers on (i) calcium signalling nanodomains in health and disease, (ii) novel imaging tools and protocols for improving the usability, versatility, and accessibility of superresolution microscopy, and (iii) matters arrising on Equality, Diversity, Inclusion & Accessibility in STEM, particularly academic STEM workplaces.
 
 {% include section.html %}
 
