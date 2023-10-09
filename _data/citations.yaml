@@ -1,5 +1,226 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.26508/lsa.202302405
+  title: 'Correction: Expansion microscopy reveals subdomains in C. elegans germ granules'
+  authors:
+  - Kin M. Suen
+  - Thomas MD Sheard
+  - Chi-Chuan Lin
+  - Dovile Milonaityte
+  - Izzy Jayasinghe
+  - John E. Ladbury
+  publisher: Life Science Alliance
+  date: '2024-01-01'
+  link: https://doi.org/gst2bc
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsob.230045
+  title: Correlative super-resolution analysis of cardiac calcium sparks and their
+    molecular origins in health and disease
+  authors:
+  - Miriam E. Hurley
+  - Ed White
+  - Thomas M. D. Sheard
+  - Derek Steele
+  - Izzy Jayasinghe
+  publisher: Open Biology
+  date: '2023-05-01'
+  link: https://doi.org/gst2bd
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26508/lsa.202201650
+  title: Expansion microscopy reveals subdomains in<i>C. elegans</i>germ granules
+  authors:
+  - Kin M Suen
+  - Thomas MD Sheard
+  - Chi-Chuan Lin
+  - Dovile Milonaityte
+  - Izzy Jayasinghe
+  - John E Ladbury
+  publisher: Life Science Alliance
+  date: '2023-02-07'
+  link: https://doi.org/gst2bf
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.21.529394
+  title: Differential labelling of human sub-cellular compartments with fluorescent
+    dye esters and expansion microscopy
+  authors:
+  - Thomas M. D. Sheard
+  - Tayla Shakespeare
+  - Rajpinder S. Seehra
+  - Michael E Spencer
+  - Kin M. Suen
+  - Izzy Jayasinghe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-22'
+  link: https://doi.org/gst2bg
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.20.529230
+  title: Geometry-preserving Expansion Microscopy microplates enable high fidelity
+    nanoscale distortion mapping
+  authors:
+  - Rajpinder S. Seehra
+  - Benjamin H.K. Allouis
+  - Thomas M.D. Sheard
+  - Michael E Spencer
+  - Tayla Shakespeare
+  - Ashley Cadby
+  - Izzy Jayasinghe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-21'
+  link: https://doi.org/gst2bh
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.12.528168
+  title: Correlative super-resolution analysis of cardiac calcium sparks and their
+    molecular origins in health and disease
+  authors:
+  - Miriam E. Hurley
+  - Ed White
+  - Thomas M.D. Sheard
+  - Derek Steele
+  - Izzy Jayasinghe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-13'
+  link: https://doi.org/gst2bj
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2021.0317
+  title: Increased SERCA2a sub-cellular heterogeneity in right-ventricular heart failure
+    inhibits excitation-contraction coupling and modulates arrhythmogenic dynamics
+  authors:
+  - M. Holmes
+  - M. E. Hurley
+  - T. M. D. Sheard
+  - A. P. Benson
+  - I. Jayasinghe
+  - M. A. Colman
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2022-10-03'
+  link: https://doi.org/gst2bk
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2021.0316
+  title: Three-dimensional visualization of the cardiac ryanodine receptor clusters
+    and the molecular-scale fraying of dyads
+  authors:
+  - Thomas M. D. Sheard
+  - Miriam E. Hurley
+  - Andrew J. Smith
+  - John Colyer
+  - Ed White
+  - Izzy Jayasinghe
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2022-10-03'
+  link: https://doi.org/gst2bm
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41557-022-01072-2
+  title: Dismantling barriers faced by women in STEM
+  authors:
+  - J. M. Jebsen
+  - K. Nicoll Baines
+  - R. A. Oliver
+  - I. Jayasinghe
+  publisher: Nature Chemistry
+  date: '2022-10-27'
+  link: https://doi.org/gq498p
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.09.15.508083
+  title: Cysteine post-translational modifications regulate protein interactions of
+    caveolin-3
+  authors:
+  - Fiona Ashford
+  - Elaine Brown
+  - Sarah Calagan
+  - Izzy Jayasinghe
+  - Colin Henderson
+  - William Fuller
+  - Krzysztof Wypijewski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-15'
+  link: https://doi.org/gst2bn
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.05.29.493872
+  title: Expansion microscopy reveals subdomains in <i>C. elegans</i> germ granules
+  authors:
+  - Kin M. Suen
+  - Thomas M. D. Sheard
+  - Chi-Chuan Lin
+  - Dovile Milonaityte
+  - Izzy Jayasinghe
+  - John E. Ladbury
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-29'
+  link: https://doi.org/gst2bp
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/jcs.259880
+  title: Conversations with LGBT+ scientists about visibility, leadership and climbing
+    the career ladder
+  authors:
+  - Robert G. Bristow
+  - Joanne Engel
+  - Izzy Jayasinghe
+  - Martin Kampmann
+  - Owen James Sansom
+  - David M. Bryant
+  publisher: Journal of Cell Science
+  date: '2022-02-15'
+  link: https://doi.org/gst2bq
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.10.21.462365
+  title: Molecular-scale 3D visualisation of the cardiac ryanodine receptor clusters
+    and the molecular-scale fraying of dyads
+  authors:
+  - Thomas M. D. Sheard
+  - Miriam E. Hurley
+  - Andrew J. Smith
+  - John Colyer
+  - Ed White
+  - Izzy Jayasinghe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-22'
+  link: https://doi.org/gst2br
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.06.26.131854
+  title: Peptide ligands of the cardiac ryanodine receptor as super-resolution imaging
+    probes
+  authors:
+  - Thomas M. D. Sheard
+  - Luke Howlett
+  - Hannah Kirton
+  - Zhaokang Yang
+  - Georgina Gurrola
+  - Derek Steele
+  - Izzy Jayasinghe
+  - Hector H. Valdivia
+  - John Colyer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-06-28'
+  link: https://doi.org/gst2bs
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.05.20.106716
   title: 'Self-activated photoblinking of nitrogen vacancy centers in nanodiamonds
     (sandSTORM): A method for rapid single molecule localization microscopy with unlimited
@@ -291,7 +512,7 @@
   title: 4D spatial-spectral super-resolution imaging of nanoscopic membrane signalling
     domains
   publisher: Optics InfoBase Conference Papers
-  date: '2022-05-25'
+  date: '2023-10-09'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84893627791&partnerID=MN8TOARS
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
@@ -413,7 +634,7 @@
   title: 'Transverse tubule remodelling: a cellular pathology driven by both sides
     of the plasmalemma?'
   publisher: Biophysical Reviews
-  date: '2019-01-07'
+  date: '2023-10-09'
   link: https://link.springer.com/article/10.1007/s12551-017-0273-7
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
