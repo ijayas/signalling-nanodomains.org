@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 Our peer-reviewed publications include papers on (i) calcium signalling nanodomains in health and disease, (ii) novel imaging tools and protocols for improving the usability, versatility, and accessibility of superresolution microscopy, and (iii) matters arrising on Equality, Diversity, Inclusion & Accessibility in STEM, particularly academic STEM workplaces.
 
