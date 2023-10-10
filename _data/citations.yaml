@@ -18,6 +18,7 @@
 - id: doi:10.1098/rsob.230045
   title: Correlative super-resolution analysis of cardiac calcium sparks and their
     molecular origins in health and disease
+  Description: Rapid release of calcium from internal stores via ryanodine receptors (RyRs) is one of the fastest types of cytoplasmic second messenger signalling in excitable cells. In the heart, rapid summation of the elementary events of calcium release, 'calcium sparks', determine the contraction of the myocardium. We adapted a correlative super-resolution microscopy protocol to correlate sub-plasmalemmal spontaneous calcium sparks in rat right ventricular myocytes with the local nanoscale RyR2 positions. This revealed a steep relationship between the integral of a calcium spark and the sum of the local RyR2s. Segmentation of recurring spark sites showed evidence of repeated and triggered saltatory activation of multiple local RyR2 clusters. In myocytes taken from failing right ventricles, RyR2 clusters themselves showed a dissipated morphology and fragmented (smaller) clusters. They also featured greater heterogeneity in both the spark properties and the relationship between the integral of the calcium spark and the local ensemble of RyR2s. While fragmented (smaller) RyR2 clusters were rarely observed directly underlying the larger sparks or the recurring spark sites, local interrogation of the channel-to-channel distances confirmed a clear link between the positions of each calcium spark and the tight, non-random clustering of the local RyR2 in both healthy and failing ventricles.
   authors:
   - Miriam E. Hurley
   - Ed White
@@ -27,6 +28,7 @@
   publisher: Open Biology
   date: '2023-05-01'
   link: https://doi.org/gst2bd
+  image: https://royalsocietypublishing.org/cms/asset/2a86fe9a-4462-4803-ac2b-01183f0ee894/rsob230045f01.gif
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
@@ -58,6 +60,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: ''
   link: https://doi.org/gst2bg
+  image: image/GraphicalAbstract_Esters.jpg
   orcid: 0000-0003-2461-478X
   plugin: sources.py
   file: sources.yaml
@@ -317,7 +320,7 @@
   authors:
   - Ruisheng Lin
   - Alexander H. Clowsley
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - David Baddeley
   - Christian Soeller
   publisher: Optics Express
@@ -331,7 +334,7 @@
   authors:
   - Christian Soeller
   - Yufeng Hou
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - David Baddeley
   - David Crossman
   publisher: Methods in Molecular Biology
@@ -363,7 +366,7 @@
     of the plasmalemma?'
   authors:
   - David J. Crossman
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - Christian Soeller
   publisher: Biophysical Reviews
   date: '2017-07-10'
@@ -409,7 +412,7 @@
     rat cardiac myocytes
   authors:
   - Yufeng Hou
-  - Isuru Jayasinghe
+  - Izzy Jayasinghe
   - David J. Crossman
   - David Baddeley
   - Christian Soeller
@@ -423,7 +426,7 @@
   title: Revealing t-tubules in striated muscle with new optical super-resolution
     microscopy techniques
   authors:
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - Alexander H. Clowsley
   - Michelle Munro
   - Yufeng Hou
@@ -439,7 +442,7 @@
   title: Observation of the molecular organization of calcium release sites in fast-
     and slow-twitch skeletal muscle with nanoscale imaging
   authors:
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - Michelle Munro
   - David Baddeley
   - Bradley S. Launikonis
@@ -459,7 +462,7 @@
   - David J. Crossman
   - Vijay Rajagopal
   - David Baddeley
-  - Isuru Jayasinghe
+  - Izzy Jayasinghe
   - Christian Soeller
   publisher: Progress in Biophysics and Molecular Biology
   date: '2014-08-01'
@@ -540,7 +543,7 @@
     domains
   authors:
   - David Baddeley
-  - Isuru Jayasinghe
+  - Izzy Jayasinghe
   - Cherrie Kong
   - David Crossman
   - Juliette Cheyne
@@ -565,7 +568,7 @@
   - Sabrina Rossberger
   - Juliette E. Cheyne
   - Johanna M. Montgomery
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - Christoph Cremer
   - Mark B. Cannell
   - Christian Soeller
@@ -579,7 +582,7 @@
   title: 'A new twist in cardiac muscle: dislocated and helicoid arrangements of myofibrillar
     z-disks in mammalian ventricular myocytes'
   authors:
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - David J. Crossman
   - Christian Soeller
   - Mark B. Cannell
@@ -623,7 +626,7 @@
     models of intracellular Ca<sup>2+</sup>signalling in rat ventricular myocytes
   authors:
   - Christian Soeller
-  - Isuru D. Jayasinghe
+  - Izzy Jayasinghe
   - Pan Li
   - Arun V. Holden
   - Mark B. Cannell
@@ -652,7 +655,7 @@
   title: 'Transverse tubule remodelling: a cellular pathology driven by both sides
     of the plasmalemma?'
   publisher: Biophysical Reviews
-  date: '2023-10-09'
+  date: '2017-10-09'
   link: https://link.springer.com/article/10.1007/s12551-017-0273-7
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
