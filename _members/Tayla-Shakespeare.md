@@ -17,5 +17,4 @@ I studied for my undergraduate degree at the University of Sheffield, graduating
 I started my PhD at the University of Sheffield in September 2021. My project focuses on the development and implementation of Expansion Microscopy (a new super-resolution imaging tool) to investigate cellular processes. This research brings together my love of biochemistry and image analysis to resolve important questions in biomedical research. 
 
 I spend my free time running through the Sheffield peaks or hiking up the tougher hills. I love spending time with my cats, and in my garden where I grow my own vegetables and wildflowers, or simply sit back and enjoy the infamous Sheffield views!
-![image](https://github.com/ijayas/signalling-nanodomains.org/assets/71890503/66a6bb57-319d-464b-880b-1985e40d2e88)
 
