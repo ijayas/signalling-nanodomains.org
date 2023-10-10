@@ -56,12 +56,29 @@
   - Kin M. Suen
   - Izzy Jayasinghe
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-22'
+  date: ''
   link: https://doi.org/gst2bg
-  image: images/GraphicalAbstract_Esters.jpg
   orcid: 0000-0003-2461-478X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: "Amine-reactive esters of aromatic fluorescent dyes are emerging as\
+    \ imaging probes for nondescript staining of cellular and tissue architectures.\
+    \ We characterised the differential staining patterns of 14 fluorescent dye ester\
+    \ species with varying physical and spectral properties in the broadly studied\
+    \ human cell line \u2013 HeLa. When combined with expansion microscopy (ExM),\
+    \ these stains reveal nanoscale features such as the nuclear proteome, membrane-bound\
+    \ compartments and vesicles. Among N-Hydroxysuccinimide (NHS) esters, we observe\
+    \ differential compartment specificity and weighting of labelling density which\
+    \ correlates with the hydrophobicity of the dye ester. We also observe changes\
+    \ in both staining density and compartment specificity for a given dye ester depending\
+    \ on the presence of a second dye ester species and on the timepoint of application\
+    \ in the ExM protocol. Our findings confirm these dye esters as a useful addition\
+    \ to the repertoire of biomedical stains of the cellular proteome, either on their\
+    \ own, or as counterstains to immunofluorescence."
+  tags:
+  - open science
+  - expansion microscopy
 - id: doi:10.1101/2023.02.20.529230
   title: Geometry-preserving Expansion Microscopy microplates enable high fidelity
     nanoscale distortion mapping
@@ -300,7 +317,7 @@
   authors:
   - Ruisheng Lin
   - Alexander H. Clowsley
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - David Baddeley
   - Christian Soeller
   publisher: Optics Express
@@ -314,7 +331,7 @@
   authors:
   - Christian Soeller
   - Yufeng Hou
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - David Baddeley
   - David Crossman
   publisher: Methods in Molecular Biology
@@ -346,7 +363,7 @@
     of the plasmalemma?'
   authors:
   - David J. Crossman
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Christian Soeller
   publisher: Biophysical Reviews
   date: '2017-07-10'
@@ -392,7 +409,7 @@
     rat cardiac myocytes
   authors:
   - Yufeng Hou
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - David J. Crossman
   - David Baddeley
   - Christian Soeller
@@ -406,7 +423,7 @@
   title: Revealing t-tubules in striated muscle with new optical super-resolution
     microscopy techniques
   authors:
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Alexander H. Clowsley
   - Michelle Munro
   - Yufeng Hou
@@ -422,7 +439,7 @@
   title: Observation of the molecular organization of calcium release sites in fast-
     and slow-twitch skeletal muscle with nanoscale imaging
   authors:
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Michelle Munro
   - David Baddeley
   - Bradley S. Launikonis
@@ -442,7 +459,7 @@
   - David J. Crossman
   - Vijay Rajagopal
   - David Baddeley
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - Christian Soeller
   publisher: Progress in Biophysics and Molecular Biology
   date: '2014-08-01'
@@ -523,7 +540,7 @@
     domains
   authors:
   - David Baddeley
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - Cherrie Kong
   - David Crossman
   - Juliette Cheyne
@@ -548,7 +565,7 @@
   - Sabrina Rossberger
   - Juliette E. Cheyne
   - Johanna M. Montgomery
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Christoph Cremer
   - Mark B. Cannell
   - Christian Soeller
@@ -562,7 +579,7 @@
   title: 'A new twist in cardiac muscle: dislocated and helicoid arrangements of myofibrillar
     z-disks in mammalian ventricular myocytes'
   authors:
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - David J. Crossman
   - Christian Soeller
   - Mark B. Cannell
@@ -606,7 +623,7 @@
     models of intracellular Ca<sup>2+</sup>signalling in rat ventricular myocytes
   authors:
   - Christian Soeller
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Pan Li
   - Arun V. Holden
   - Mark B. Cannell
