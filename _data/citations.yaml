@@ -27,7 +27,6 @@
   publisher: Open Biology
   date: '2023-05-01'
   link: https://doi.org/gst2bd
-  image: https://royalsocietypublishing.org/cms/asset/2a86fe9a-4462-4803-ac2b-01183f0ee894/rsob230045f01.gif
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
@@ -318,7 +317,7 @@
   authors:
   - Ruisheng Lin
   - Alexander H. Clowsley
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - David Baddeley
   - Christian Soeller
   publisher: Optics Express
@@ -332,7 +331,7 @@
   authors:
   - Christian Soeller
   - Yufeng Hou
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - David Baddeley
   - David Crossman
   publisher: Methods in Molecular Biology
@@ -364,7 +363,7 @@
     of the plasmalemma?'
   authors:
   - David J. Crossman
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - Christian Soeller
   publisher: Biophysical Reviews
   date: '2017-07-10'
@@ -410,7 +409,7 @@
     rat cardiac myocytes
   authors:
   - Yufeng Hou
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - David J. Crossman
   - David Baddeley
   - Christian Soeller
@@ -424,7 +423,7 @@
   title: Revealing t-tubules in striated muscle with new optical super-resolution
     microscopy techniques
   authors:
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - Alexander H. Clowsley
   - Michelle Munro
   - Yufeng Hou
@@ -440,7 +439,7 @@
   title: Observation of the molecular organization of calcium release sites in fast-
     and slow-twitch skeletal muscle with nanoscale imaging
   authors:
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - Michelle Munro
   - David Baddeley
   - Bradley S. Launikonis
@@ -460,7 +459,7 @@
   - David J. Crossman
   - Vijay Rajagopal
   - David Baddeley
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - Christian Soeller
   publisher: Progress in Biophysics and Molecular Biology
   date: '2014-08-01'
@@ -541,7 +540,7 @@
     domains
   authors:
   - David Baddeley
-  - Izzy Jayasinghe
+  - Isuru Jayasinghe
   - Cherrie Kong
   - David Crossman
   - Juliette Cheyne
@@ -566,7 +565,7 @@
   - Sabrina Rossberger
   - Juliette E. Cheyne
   - Johanna M. Montgomery
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - Christoph Cremer
   - Mark B. Cannell
   - Christian Soeller
@@ -580,7 +579,7 @@
   title: 'A new twist in cardiac muscle: dislocated and helicoid arrangements of myofibrillar
     z-disks in mammalian ventricular myocytes'
   authors:
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - David J. Crossman
   - Christian Soeller
   - Mark B. Cannell
@@ -624,7 +623,7 @@
     models of intracellular Ca<sup>2+</sup>signalling in rat ventricular myocytes
   authors:
   - Christian Soeller
-  - Izzy D. Jayasinghe
+  - Isuru D. Jayasinghe
   - Pan Li
   - Arun V. Holden
   - Mark B. Cannell
