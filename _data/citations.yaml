@@ -27,7 +27,6 @@
   publisher: Open Biology
   date: '2023-05-01'
   link: https://doi.org/gst2bd
-  image: https://royalsocietypublishing.org/cms/asset/2a86fe9a-4462-4803-ac2b-01183f0ee894/rsob230045f01.gif
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
@@ -59,7 +58,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-02-22'
   link: https://doi.org/gst2bg
-  image: images/GraphicalAbstract_Esters.jpg
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
