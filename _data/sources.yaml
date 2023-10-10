@@ -1,19 +1,15 @@
 - id: doi:10.1101/2023.02.21.529394
   type: paper
-  description: ** Accepted into publication in Nanoscale: ** As a service to the Expansion Microscopy community, we have characterised and catalogued 14 different reactive ester versions of aromatic fluorophores that can be used as counterstains in conjunction with Expansion Microscopy. One of the crucial observations of this work was a set of trends in which dye ester species highlighted specific sub-cellular compartments of commonly-used human carcinoma cell lines depending on ** the overall charge, time of application and ester combinations **. We reveal the fascinating variations observed with different multi-labelling experiments and highlight the need for pre-validating inter-marker interactions for any researchers looking to exploit fluorescent esters for bio-imaging. 
-  Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: /images/GraphicalAbstract_Esters.jpg
+  description: ** Accepted into publication in Nanoscale: ** As a service to the Expansion Microscopy community, we have characterised and catalogued 14 different reactive ester versions of aromatic fluorophores that can be used as counterstains in conjunction with Expansion Microscopy. One of the crucial observations of this work was a set of trends in which dye ester species highlighted specific sub-cellular compartments of commonly-used human carcinoma cell lines depending on ** the overall charge, time of application and ester combinations **. We reveal the fascinating variations observed with different multi-labelling experiments and highlight the need for pre-validating inter-marker interactions for any researchers looking to exploit fluorescent esters for bio-imaging.
+  date: 2023-10-10
+  image: images/GraphicalAbstract_Esters.jpg
   buttons:
-    - type: preprint
+    - type: source
       link: https://www.biorxiv.org/content/10.1101/2023.02.21.529394v2
     - type: blog
       text: Tom's blog post about presenting at Biophysics
       link: https://tmdsheard.github.io/blogpost9_Biophysics.html
-
   tags:
     - open science
     - expansion microscopy
     - fluorescent ester counterstains
-
-
