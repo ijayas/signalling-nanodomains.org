@@ -13,8 +13,6 @@ Our peer-reviewed publications include papers on (i) calcium signalling nanodoma
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
 {% include section.html %}
 
 ## All
