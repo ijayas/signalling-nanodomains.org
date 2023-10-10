@@ -1,5 +1,5 @@
 ---
-title: How I got my UKRI Future Leader Fellowship: lessons I learned from being a new PI
+title: How I got my UKRI Future Leader Fellowship
 author: izzy-jayasinghe
 ---
 
