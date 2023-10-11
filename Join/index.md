@@ -11,3 +11,9 @@ footer-dark: true
 ---
 
 Our UNSW laboratory will have new postdoctoral and PhD positions opening very soon.
+
+{% include section.html %}
+
+## Currently recruiting
+
+{% include list.html component="card" data="Join" filters="group: " style="small" %}
