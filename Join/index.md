@@ -16,6 +16,4 @@ Our UNSW laboratory will have new postdoctoral and PhD positions opening very so
 
 ## Featured
 
-{% include list.html component="card" data="Join" height="100%" filters="group: featured" style="small" %}
-
-{% include section.html %}
+{% include list.html component="card" data="Join" height="100%" filters="group: Featured" style="small" %}
