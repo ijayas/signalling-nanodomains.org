@@ -1,7 +1,7 @@
 ---
 name: Nkolika Atuanya (she/her)
 image: images/Nkoli.jpg
-role: PhD
+role: phd
 description: PhD Researcher (Sheffield; first supervised by Dr Barbara Ciani)
 aliases:
   - N Atuanya
