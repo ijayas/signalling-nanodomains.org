@@ -40,7 +40,6 @@
   image: images/photo.jpg
   link: https://github.com/
   description:  More details coming soon
-  repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
@@ -50,7 +49,6 @@
   image: images/photo.jpg
   link: https://github.com/
   description:  More details coming soon
-  repo: greenelab/lab-website-template
   tags:
     - software
 
@@ -59,6 +57,5 @@
   image: images/photo.jpg
   link: https://github.com/
   description: More details coming soon
-  repo: greenelab/lab-website-template
   tags:
     - software
