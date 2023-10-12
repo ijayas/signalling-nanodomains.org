@@ -1,3 +1,14 @@
+- title: Single molecule spatial omics meets cardiac pathology
+  subtitle: 
+  group: featured
+  image: images/heart_circuit.jpg
+  description: In a 3-year project funded by New South Wales Medical Research, we are developing single molecule imaging and spatial omics tools to study systems of key signalling molecules and their regulators in the healthy and failing myocardium. We are bringing together multiplexed super-resolution imaging, big data pipelines and machine learning to understand how these molecular systems of signalling lose their balance as a heart begins to fail.
+  tags:
+    - spatial omics
+    - heart disease
+    - molecular networks
+    - machine learning
+
 - title: Accessible super-resolution to all life scientists
   subtitle: 
   group: featured
