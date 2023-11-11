@@ -10,7 +10,7 @@ header-dark: true
 footer-dark: true
 ---
 
-Our UNSW laboratory has three postdoctoral positions and a PhD scholarship to fill. Our Sheffield team also has a position currently open in collaboration with Dr Barbara Ciani, Prof Jane Grasby, and industrial partner: Astra Zeneca.
+Our UNSW laboratory has three postdoctoral positions and a PhD scholarship to fill. Our Sheffield team also has a position currently open in collaboration with Dr Barbara Ciani, Prof Jane Grasby, and Astra Zeneca.
 
 {% include section.html %}
 
