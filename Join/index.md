@@ -14,9 +14,9 @@ Our UNSW laboratory has three postdoctoral positions and a PhD scholarship to fi
 
 {% include section.html %}
 
-## Postdoc Positions
+## Postdoc positions
 
-{% include list.html component="card" data="Join" height="100%" filters="group: Featured" %}
+{% include list.html component="card" data="Join" height="100%" filters="group: Featured" style="small" %}
 
 ## Fully funded PhD positions
 
