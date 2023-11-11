@@ -513,15 +513,6 @@ window["ExpressiveAnimatorPlayer"](
     
       
         <a
-          href="/Join/"
-          data-tooltip="Join Us"
-        >
-          Join Us
-        </a>
-      
-    
-      
-        <a
           href="/blog/"
           data-tooltip="Musings and miscellany"
         >
@@ -544,6 +535,15 @@ window["ExpressiveAnimatorPlayer"](
           data-tooltip="Twitter and Webpage"
         >
           Contact
+        </a>
+      
+    
+      
+        <a
+          href="/Join/"
+          data-tooltip="Join Us"
+        >
+          Join Us
         </a>
       
     
