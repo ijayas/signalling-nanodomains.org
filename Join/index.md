@@ -2,7 +2,7 @@
 title: Join Us
 description: Opportunities to work with us
 nav:
-  order: 6
+  order: 3
   tooltip: Join Us
 header: images/alt-header.jpg
 footer: images/alt-header.jpg
