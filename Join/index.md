@@ -2,7 +2,7 @@
 title: Join Us
 description: Opportunities to work with us
 nav:
-  order: 3
+  order: 6
   tooltip: Join Us
 header: images/alt-header.jpg
 footer: images/alt-header.jpg
@@ -14,6 +14,10 @@ Our UNSW laboratory has three postdoctoral positions and a PhD scholarship to fi
 
 {% include section.html %}
 
-## Featured
+## Postdoc Positions
 
 {% include list.html component="card" data="Join" height="100%" filters="group: Featured" %}
+
+## Fully funded PhD positions
+
+{% include list.html component="card" data="Join" height="100%" filters="group: More" %}
