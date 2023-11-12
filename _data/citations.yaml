@@ -111,6 +111,22 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1039/d3nr01129a
+  title: Differential labelling of human sub-cellular compartments with fluorescent
+    dye esters and expansion microscopy
+  authors:
+  - Thomas M. D. Sheard
+  - Tayla B. Shakespeare
+  - Rajpinder S. Seehra
+  - Michael E. Spencer
+  - Kin M. Suen
+  - Izzy Jayasinghe
+  publisher: Nanoscale
+  date: '2023-01-01'
+  link: https://doi.org/gs4jr9
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rstb.2021.0317
   title: Increased SERCA2a sub-cellular heterogeneity in right-ventricular heart failure
     inhibits excitation-contraction coupling and modulates arrhythmogenic dynamics
