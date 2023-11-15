@@ -16,8 +16,8 @@ Here we list some of the microscopy and image analysis resources that we have de
 
 ## Imaging tools
 
-{% include list.html component="card" data="Resources" height="100%" filters="group: Imaging tools" style="small" %}
+
 
 ## Image analysis tools
 
-{% include list.html component="card" data="Resources" height="100%" filters="group: Image analysis tools" style="small" %}
+
