@@ -540,6 +540,15 @@ window["ExpressiveAnimatorPlayer"](
     
       
         <a
+          href="/Resources/"
+          data-tooltip="Resources"
+        >
+          Resources
+        </a>
+      
+    
+      
+        <a
           href="/Join/"
           data-tooltip="Join Us"
         >
