@@ -13,3 +13,11 @@ Here we list some of the microscopy and image analysis resources that we have de
 
 {% include section.html %}
 
+## Postdoc positions
+
+{% include list.html component="card" data="Join" height="100%" filters="group: Featured" style="small" %}
+
+## Fully funded PhD positions
+
+{% include list.html component="card" data="Join" height="100%" filters="group: More" %}
+
