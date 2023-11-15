@@ -2,7 +2,7 @@
 title: Resources
 description: Opportunities to work with us
 nav:
-  order: 6
+  order: 5
   tooltip: Resources
 header: images/alt-header.jpg
 footer: images/alt-header.jpg
