@@ -1,3 +1,4 @@
+---
 title: Resources
 description: Opportunities to work with us
 nav:
