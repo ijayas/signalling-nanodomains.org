@@ -17,10 +17,10 @@ We have a number of projects on the go, and this page outlines some of the main 
 
 ## Featured projects
 
-{% include list.html component="card" data="projects" height="100%" filters="group: featured" style="small" %}
+{% include list.html component="card" data=" Featured projects" height="100%" filters="group: featured" style="small" %}
 
 {% include section.html %}
 
 ## Resources & tools
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="Tools" filters="group: " style="small" %}
