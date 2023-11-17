@@ -1,6 +1,6 @@
 - title: Single molecule spatial omics meets cardiac pathology
   subtitle: 
-  group: featured
+  group: Featured projects
   image: images/heart_circuit.jpg
   link: https://www.unsw.edu.au/news/2023/10/unsw-researcher-awarded-nsw-health-cardiovascular-grant
   description: In a 3-year project funded by New South Wales Medical Research, we are developing single molecule imaging and spatial omics tools to study systems of key signalling molecules and their regulators in the healthy and failing myocardium. We are bringing together multiplexed super-resolution imaging, big data pipelines and machine learning to understand how these molecular systems of signalling lose their balance as a heart begins to fail.
@@ -12,7 +12,7 @@
 
 - title: Accessible super-resolution to all life scientists
   subtitle: 
-  group: featured
+  group: Featured projects
   image: images/UKRI-project.png 
   link: https://youtu.be/vqkzDOiWVXs?si=4rM2TocuRIrGcpWM
   description: In a 7-year project funded by UK Research & Innovation, we are developing several innovations that are aimed at making super-resolution microscopy, expansion microscopy in particular, accessible and affordable for life sciences researchers. Amongst some of the work completed so far, we have characterised a series of 14 nondescript stains and 3D printed microplates for expansion microscopy. As a part of this project, we are also applying super-resolution to sample types and sub-fields that have not utilised super-resolution as much as mainstream cell biology. They include imaging thick tissues and whole organisms such as sea urchin larvae. More coming soon.
@@ -24,7 +24,7 @@
 
 - title: Linking nanodomain structure directly with local function
   subtitle: 
-  group: featured
+  group: Featured projects
   image: images/correlative.jpg
   link: https://github.com/ijayas/imagealigning
   description: We have an ongoing interest in the calcium signals (calcium sparks) produced by intracellular ion channels such as ryanodine receptors and inositol triphosphate receptors. In cardiac muscle cells, ryanodine receptors organised into clusters within distinct signalling nanodomains work together in specific spatial patterns to produce these sparks. In pain sensing neurons from the dorsal root ganglia, these channels are less well clustered and produce much more variable sparks. Using a correlative imaging and analysis pipeline, we have pioneered the methods to visualising and decoding the spatial relationships between these calcium sparks and super-resolution maps of these channels.
@@ -38,6 +38,7 @@
 
 - title: Characterising a palette of directly applied fluorescent-ester dyes for expansion microscopy
   subtitle: cataloguing the diversity of cell compartment staining with 14 ester-form dyes
+  group: Tools
   image: images/logD.jpg
   link: https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr01129a
   description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal, Nanoscale.
