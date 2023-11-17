@@ -19,6 +19,7 @@ The concept is straightforward. To avoid picking up, transferring and cutting th
   flip=true
   style="bare"
 %}
+
 {%
   include button.html
   type=download
