@@ -46,3 +46,15 @@
     - resource
     - publication
     - catalogue of fluorescent ester dyes
+    - open science
+
+  - title: 3D printable ExM microplate and distortion analysis tools
+    subtitle: A suite of tools to help improve the pipelines of ExM and validate ExM image data
+    group: tools
+    image: images/plate.jpg
+    link: https://tmdsheard.github.io/blogpost10_Esters.html
+    description: Read more about our latest projects in using a 3D printable microplate systems for (a) reducing the manual handling of hydrogels, (b) improving throughput, and (c) enabling convenient distortion checking of expansion microscopy (ExM) samples
+    tags:
+      - resource
+      - publication
+      - open science
