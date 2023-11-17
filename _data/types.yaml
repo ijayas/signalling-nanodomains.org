@@ -218,3 +218,8 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+download:
+  icon: fa-duotone fa-download
+  text: Download
+  tooltip: Download
