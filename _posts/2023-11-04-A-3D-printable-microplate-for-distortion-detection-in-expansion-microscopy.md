@@ -15,8 +15,6 @@ The concept is straightforward. To avoid picking up, transferring and cutting th
   link=https://a360.co/40CkanE
   icon="fa-duotone fa-download"
   text="Download CAD model for plate & lid"
-  tooltip="Click to download"
-  flip=true
   style="bare"
 %}
 {%
@@ -25,8 +23,6 @@ The concept is straightforward. To avoid picking up, transferring and cutting th
   link=https://a360.co/3QGLNr0
   icon="fa-duotone fa-download"
   text="Download CAD model for the frame inserts"
-  tooltip="Click to download"
-  flip=true
   style="bare"
 %}
 
