@@ -41,7 +41,7 @@
   group: tools
   image: images/logD.jpg
   link: https://tmdsheard.github.io/blogpost10_Esters.html
-  description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal, Nanoscale: https://doi.org/10.1039/D3NR01129A/
+  description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal, [Nanoscale](https://doi.org/10.1039/D3NR01129A/)
   tags:
     - resource
     - publication
@@ -53,7 +53,7 @@
     group: tools
     image: images/plate.jpg
     link: https://tmdsheard.github.io/blogpost10_Esters.html
-    description: Read more about our latest projects in using a 3D printable microplate systems for (a) reducing the manual handling of hydrogels, (b) improving throughput, and (c) enabling convenient distortion checking of expansion microscopy (ExM) samples
+    description: Read more about our latest projects in using a 3D printable microplate systems for (a) reducing the manual handling of hydrogels, (b) improving throughput, and (c) enabling convenient distortion checking of expansion microscopy (ExM) samples.
     tags:
       - resource
       - publication
