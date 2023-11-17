@@ -40,8 +40,8 @@
   subtitle: cataloguing the diversity of cell compartment staining with 14 ester-form dyes
   group: tools
   image: images/logD.jpg
-  link: https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr01129a
-  description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal, Nanoscale.
+  link: https://tmdsheard.github.io/blogpost10_Esters.html
+  description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal, Nanoscale: https://doi.org/10.1039/D3NR01129A/
   tags:
     - resource
     - publication
