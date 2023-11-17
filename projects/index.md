@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projects & Resources
 nav:
   order: 2
   tooltip: Software, datasets, and more
@@ -15,12 +15,12 @@ We have a number of projects on the go, and this page outlines some of the main 
 
 {% include section.html %}
 
-## Featured
+## Featured projects
 
 {% include list.html component="card" data="projects" height="100%" filters="group: featured" style="small" %}
 
 {% include section.html %}
 
-## More
+## Resources & tools
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
