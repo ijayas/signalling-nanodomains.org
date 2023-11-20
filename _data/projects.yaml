@@ -40,7 +40,8 @@
   subtitle: cataloguing the diversity of cell compartment staining with 14 ester-form dyes
   group: tools
   image: images/logD.jpg
-  link: https://tmdsheard.github.io/blogpost10_Esters.html
+  link: https://lab.signalling-nanodomains.org/2023/11/19/A-3D-printable-microplate-for-distortion-detection-in-expansion-microscopy.html
+  github: "ijayas/plate-ExM"
   description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal Nanoscale.
   tags:
     - resource
