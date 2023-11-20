@@ -8,7 +8,7 @@ _Read more on our paper in Cell Reports Physical Science_
 {%
   include button.html
   type="github"
-  link="https://github.com/ijayas/plate-ExM"
+  link="ijayas/plate-ExM"
   icon="fa-brands fa-github"
   text="See the github page linking to the resources"
   flip=true
