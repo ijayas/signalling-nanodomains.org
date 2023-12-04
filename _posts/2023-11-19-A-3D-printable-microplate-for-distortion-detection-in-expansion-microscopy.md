@@ -3,7 +3,7 @@ title: A 3D printable microplate for distortion detection in expansion microscop
 author: izzy-jayasinghe
 ---
 
-_Read more on our paper in Cell Reports Physical Science_
+_Read more on our [paper in Cell Reports Physical Science](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(23)00560-X)_
 
 {%
   include button.html
