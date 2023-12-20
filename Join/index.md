@@ -14,10 +14,10 @@ Our UNSW laboratory has three postdoctoral positions and a PhD scholarship to fi
 
 {% include section.html %}
 
-## Postdoc positions
+## Positions open to applications
 
 {% include list.html component="card" data="Join" height="100%" filters="group: Featured" style="small" %}
 
-## Fully funded PhD positions
+## Other positions open or opening soon
 
 {% include list.html component="card" data="Join" height="100%" filters="group: More" %}
