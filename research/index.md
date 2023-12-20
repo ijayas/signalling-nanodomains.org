@@ -13,7 +13,7 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
 
 ## Highlighted
 
-{% include citation.html lookup="Cell Reports Physical Science" style="rich" %}
+{% include citation.html lookup="Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping" style="rich" %}
 
 {% include section.html %}
 
