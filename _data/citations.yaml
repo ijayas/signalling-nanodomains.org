@@ -75,9 +75,9 @@
   - Michael E Spencer
   - Kin M. Suen
   - Izzy Jayasinghe
-  publisher: Nanoscale
+  publisher: Cold Spring Harbor Laboratory
   date: ''
-  link: https://pubs.rsc.org/en/content/articlelanding/2023/NR/D3NR01129A
+  link: https://doi.org/gst2bg
   orcid: 0000-0003-2461-478X
   plugin: sources.py
   file: sources.yaml
@@ -99,7 +99,6 @@
   tags:
   - open science
   - expansion microscopy
-  - nondescript fluorescent labelling
 - id: doi:10.1101/2023.02.20.529230
   title: Geometry-preserving Expansion Microscopy microplates enable high fidelity
     nanoscale distortion mapping
