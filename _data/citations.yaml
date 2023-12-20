@@ -703,6 +703,7 @@
     \ in the ExM protocol. Our findings confirm these dye esters as a useful addition\
     \ to the repertoire of biomedical stains of the cellular proteome, either on their\
     \ own, or as counterstains to immunofluorescence."
+  image: images/NHSdyes.jpg
   tags:
   - open science
   - expansion microscopy
