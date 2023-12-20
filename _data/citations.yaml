@@ -76,29 +76,11 @@
   - Kin M. Suen
   - Izzy Jayasinghe
   publisher: Cold Spring Harbor Laboratory
-  date: ''
+  date: '2023-02-22'
   link: https://doi.org/gst2bg
   orcid: 0000-0003-2461-478X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: "Amine-reactive esters of aromatic fluorescent dyes are emerging as\
-    \ imaging probes for nondescript staining of cellular and tissue architectures.\
-    \ We characterised the differential staining patterns of 14 fluorescent dye ester\
-    \ species with varying physical and spectral properties in the broadly studied\
-    \ human cell line \u2013 HeLa. When combined with expansion microscopy (ExM),\
-    \ these stains reveal nanoscale features such as the nuclear proteome, membrane-bound\
-    \ compartments and vesicles. Among N-Hydroxysuccinimide (NHS) esters, we observe\
-    \ differential compartment specificity and weighting of labelling density which\
-    \ correlates with the hydrophobicity of the dye ester. We also observe changes\
-    \ in both staining density and compartment specificity for a given dye ester depending\
-    \ on the presence of a second dye ester species and on the timepoint of application\
-    \ in the ExM protocol. Our findings confirm these dye esters as a useful addition\
-    \ to the repertoire of biomedical stains of the cellular proteome, either on their\
-    \ own, or as counterstains to immunofluorescence."
-  tags:
-  - open science
-  - expansion microscopy
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.02.20.529230
   title: Geometry-preserving Expansion Microscopy microplates enable high fidelity
     nanoscale distortion mapping
@@ -693,3 +675,37 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1039/D3NR01129A
+  title: Differential labelling of human sub-cellular compartments with fluorescent
+    dye esters and expansion microscopy
+  authors:
+  - Thomas M. D. Sheard
+  - Tayla B. Shakespeare
+  - Rajpinder S. Seehra
+  - Michael E. Spencer
+  - Kin M. Suen
+  - Izzy Jayasinghe
+  publisher: Nanoscale
+  date: ''
+  link: https://doi.org/gs4jr9
+  type: paper
+  description: "Amine-reactive esters of aromatic fluorescent dyes are emerging as\
+    \ imaging probes for nondescript staining of cellular and tissue architectures.\
+    \ We characterised the differential staining patterns of 14 fluorescent dye ester\
+    \ species with varying physical and spectral properties in the broadly studied\
+    \ human cell line \u2013 HeLa. When combined with expansion microscopy (ExM),\
+    \ these stains reveal nanoscale features such as the nuclear proteome, membrane-bound\
+    \ compartments and vesicles. Among N-Hydroxysuccinimide (NHS) esters, we observe\
+    \ differential compartment specificity and weighting of labelling density which\
+    \ correlates with the hydrophobicity of the dye ester. We also observe changes\
+    \ in both staining density and compartment specificity for a given dye ester depending\
+    \ on the presence of a second dye ester species and on the timepoint of application\
+    \ in the ExM protocol. Our findings confirm these dye esters as a useful addition\
+    \ to the repertoire of biomedical stains of the cellular proteome, either on their\
+    \ own, or as counterstains to immunofluorescence."
+  tags:
+  - open science
+  - expansion microscopy
+  - nondescript fluorescent labelling
+  plugin: sources.py
+  file: sources.yaml
