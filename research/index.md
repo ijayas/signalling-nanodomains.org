@@ -21,7 +21,7 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
 
 {% include section.html %}
 
-{% include citation.html lookup="Differential labelling of human sub-cellular compartments with fluorescent" style="rich" %}
+{% include sources.html lookup="Differential labelling of human sub-cellular compartments with fluorescent" style="rich" %}
 
 {% include section.html %}
 
