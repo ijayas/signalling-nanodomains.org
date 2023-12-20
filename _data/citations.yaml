@@ -129,6 +129,7 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
+  image: image/NHSdyes.jpg
 - id: doi:10.1098/rstb.2021.0317
   title: Increased SERCA2a sub-cellular heterogeneity in right-ventricular heart failure
     inhibits excitation-contraction coupling and modulates arrhythmogenic dynamics
