@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Our peer-reviewed publications include papers on **(i.)** calcium signalling nanodomains in health and disease, **(ii.)** novel imaging tools and protocols for improving the usability, versatility, and accessibility of superresolution microscopy, and **(iii.)** matters arrising on Equality, Diversity, Inclusion & Accessibility in academic STEM workplaces.
+Our peer-reviewed publications include papers on **(i.)** calcium signalling nanodomains in health and disease, **(ii.)** novel imaging tools and protocols for improving the usability, versatility, and accessibility of superresolution microscopy, and **(iii.)** matters arising on Equality, Diversity, Inclusion & Accessibility in academic STEM workplaces.
 
 {% include section.html %}
 
