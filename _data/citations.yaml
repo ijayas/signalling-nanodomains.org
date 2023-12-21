@@ -92,7 +92,7 @@
   image: images/correlative.jpg
   tags:
   - correlative structure-function imaging
-  - ryanodine receptor
+  - ryanodine receptor nanodomains
   - cardiac right ventricular failure
   - calcium sparks
 - id: doi:10.26508/lsa.202201650
@@ -234,7 +234,7 @@
   - R. A. Oliver
   - I. Jayasinghe
   publisher: Nature Chemistry
-  date: '2023-10-10'
+  date: '2022-10-27'
   link: https://doi.org/gq498p
   orcid: 0000-0003-2461-478X
   plugin: sources.py
