@@ -33,8 +33,29 @@
   date: '2023-12-01'
   link: https://doi.org/gs8h3x
   orcid: 0000-0003-2461-478X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Expansion microscopy (ExM) is a versatile super-resolution microscopy
+    pipeline, leveraging nanoscale biomolecular crosslinking and osmotically driven
+    swelling of hydrogels. Currently, ExM is a laborious and skill-intensive technique,
+    involving manual handling of the hydrogels that can compromise the integrity of
+    the gels and capacity to track gel isotropy, hence diminishing reproducibility.
+    We have developed a 3D-printable microplate system to contain the entire ExM workflow
+    within each well, enabling in situ image acquisition and eliminating the need
+    for direct handling of the hydrogels. The preservation of the gel geometry and
+    orientation of the microplate wells enables convenient tracking of gel expansion,
+    pre- and post-ExM image acquisition, and distortion mapping of every cell or region
+    of interest. We demonstrate the utility of this approach with both single-color
+    and multiplexed ExM of cultured HeLa cells and dissected pupal Drosophila melanogaster
+    wing tissue to reveal distortion-prone structures ranging from sub-cellular organelles
+    to micron-scale tissue regions.
+  image: images/plate.jpg
+  tags:
+  - 3D printing
+  - expansion microscopy
+  - data validation
+  - distortion tracking
 - id: doi:10.1098/rsob.230045
   title: Correlative super-resolution analysis of cardiac calcium sparks and their
     molecular origins in health and disease
@@ -45,11 +66,35 @@
   - Derek Steele
   - Izzy Jayasinghe
   publisher: Open Biology
-  date: '2023-05-01'
+  date: '2023-05-24'
   link: https://doi.org/gst2bd
   orcid: 0000-0003-2461-478X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Rapid release of calcium from internal stores via ryanodine receptors
+    (RyRs) is one of the fastest types of cytoplasmic second messenger signalling
+    in excitable cells. In the heart, rapid summation of the elementary events of
+    calcium release, 'calcium sparks', determine the contraction of the myocardium.
+    We adapted a correlative super-resolution microscopy protocol to correlate sub-plasmalemmal
+    spontaneous calcium sparks in rat right ventricular myocytes with the local nanoscale
+    RyR2 positions. This revealed a steep relationship between the integral of a calcium
+    spark and the sum of the local RyR2s. Segmentation of recurring spark sites showed
+    evidence of repeated and triggered saltatory activation of multiple local RyR2
+    clusters. In myocytes taken from failing right ventricles, RyR2 clusters themselves
+    showed a dissipated morphology and fragmented (smaller) clusters. They also featured
+    greater heterogeneity in both the spark properties and the relationship between
+    the integral of the calcium spark and the local ensemble of RyR2s. While fragmented
+    (smaller) RyR2 clusters were rarely observed directly underlying the larger sparks
+    or the recurring spark sites, local interrogation of the channel-to-channel distances
+    confirmed a clear link between the positions of each calcium spark and the tight,
+    non-random clustering of the local RyR2 in both healthy and failing ventricles.
+  image: images/correlative.jpg
+  tags:
+  - correlative structure-function imaging
+  - ryanodine receptor
+  - cardiac right ventricular failure
+  - calcium sparks
 - id: doi:10.26508/lsa.202201650
   title: Expansion microscopy reveals subdomains in<i>C. elegans</i>germ granules
   authors:
@@ -124,7 +169,7 @@
   - Kin M. Suen
   - Izzy Jayasinghe
   publisher: Nanoscale
-  date: ''
+  date: '2023-10-10'
   link: https://doi.org/gs4jr9
   orcid: 0000-0003-2461-478X
   plugin: sources.py
@@ -189,11 +234,23 @@
   - R. A. Oliver
   - I. Jayasinghe
   publisher: Nature Chemistry
-  date: '2022-10-27'
+  date: '2023-10-10'
   link: https://doi.org/gq498p
   orcid: 0000-0003-2461-478X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Governments worldwide are committing more funding for scientific research
+    in the face of the ongoing pandemic and climate crises. However, the funding process
+    must be restructured to remove the barriers arising from conscious and unconscious
+    biases experienced by minoritized groups, including women, and particularly women
+    of colour. In this comment article, we outline the systemic barriers faced by
+    women in STEM academic roles, the bottlenecks in funding and career opportunities,
+    and more equitable and transparent approaches to reforming funding systems.
+  tags:
+  - women in STEM
+  - research funding
+  - equity and inclusion
 - id: doi:10.1101/2022.09.15.508083
   title: Cysteine post-translational modifications regulate protein interactions of
     caveolin-3
