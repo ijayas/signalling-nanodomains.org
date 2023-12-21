@@ -11,6 +11,19 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
 
 {% include section.html %}
 
+{%
+  include button.html
+  icon="fa-solid fa-book-open"
+  text="More on PubMed"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=Izzy+Jayasinghe+OR+ID+Jayasinghe"
+%}
+{%
+  include button.html
+  icon="fa-brands fa-google"
+  text="More on Google Scholar"
+  link="https://scholar.google.com/citations?user=yLS_qD4AAAAJ&hl=en"
+%}
+
 ## Highlighted
 
 {% include citation.html lookup="Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping" style="rich" %}
@@ -21,7 +34,7 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
 
 {% include section.html %}
 
-{% include citation.html lookup="Differential labelling of human sub-cellular compartments with fluorescent" style="rich" %}
+{% include list.html lookup="Differential labelling of human sub-cellular compartments with fluorescent" style="rich" file: sources.yaml" %}
 
 {% include section.html %}
 
