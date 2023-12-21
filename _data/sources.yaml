@@ -5,7 +5,7 @@
   image: images/correlative.jpg
   tags:
     - correlative structure-function imaging
-    - ryanodine receptor
+    - ryanodine receptor nanodomains
     - cardiac right ventricular failure
     - calcium sparks
 
@@ -33,7 +33,7 @@
 - id: doi:10.1038/s41557-022-01072-2
   type: paper
   description: Governments worldwide are committing more funding for scientific research in the face of the ongoing pandemic and climate crises. However, the funding process must be restructured to remove the barriers arising from conscious and unconscious biases experienced by minoritized groups, including women, and particularly women of colour. In this comment article, we outline the systemic barriers faced by women in STEM academic roles, the bottlenecks in funding and career opportunities, and more equitable and transparent approaches to reforming funding systems.
-  date: '2023-10-10'
+  date: '2022-10-27'
   tags:
     - women in STEM
     - research funding
