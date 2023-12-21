@@ -35,7 +35,7 @@ We are signatories to the [San Francisco Declaration on Research Assessment](htt
 
 {% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}
 
-## All
+## All papers
 
 {% include search-box.html %}
 
