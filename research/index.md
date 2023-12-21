@@ -24,6 +24,8 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
   link="https://scholar.google.com/citations?user=yLS_qD4AAAAJ&hl=en"
 %}
 
+We are signatories to the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/). We publish only research of the highest quality and rigour, given the resources available to us and circumstances that we work within. Our papers are published in journals that are most appropriate for the primary readership of this research. The journals reputations, the rankings, and citation metrics of our publications are of little relevance to us.
+
 {% include search-box.html %}
 
 {% include search-info.html %}
