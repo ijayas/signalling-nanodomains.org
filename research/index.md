@@ -24,23 +24,14 @@ Our peer-reviewed publications include papers on **(i.)** calcium signalling nan
   link="https://scholar.google.com/citations?user=yLS_qD4AAAAJ&hl=en"
 %}
 
+{% include search-box.html %}
+
+{% include search-info.html %}
+
 ## Highlighted
 
-{% include citation.html lookup="Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping" style="rich" %}
 
-{% include section.html %}
-
-{% include citation.html lookup="Correlative super-resolution analysis of cardiac calcium sparks and their" style="rich" %}
-
-{% include section.html %}
-
-{% include list.html lookup="Differential labelling of human sub-cellular compartments with fluorescent" style="rich" file: sources.yaml" %}
-
-{% include section.html %}
-
-{% include citation.html lookup="True Molecular Scale Visualization of Variable Clustering Properties of Ryanodine Receptors" style="rich" %}
-
-{% include section.html %}
+{% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}
 
 ## All
 
