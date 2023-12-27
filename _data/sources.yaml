@@ -1,3 +1,15 @@
+- id: doi:10.3390/cells13010038
+  type: paper
+  description: Coordinated events of calcium (Ca2+) released from the endoplasmic reticulum (ER) are key second messengers in excitable cells. In pain-sensing dorsal root ganglion (DRG) neurons, these events can be observed as Ca2+ sparks, produced by a combination of ryanodine receptors (RyR) and inositol 1,4,5-triphosphate receptors (IP3R1). These microscopic signals offer the neuronal cells with a possible means of modulating the subplasmalemmal Ca2+ handling, initiating vesicular exocytosis. With super-resolution dSTORM and expansion microscopies, we visualised the nanoscale distributions of both RyR and IP3R1 that featured loosely organised clusters in the subplasmalemmal regions of cultured rat DRG somata. We adapted a novel correlative microscopy protocol to examine the nanoscale patterns of RyR and IP3R1 in the locality of each Ca2+ spark. We found that most subplasmalemmal sparks correlated with relatively small groups of RyR whilst larger sparks were often associated with larger groups of IP3R1. These data also showed spontaneous Ca2+ sparks in <30% of the subplasmalemmal cell area but consisted of both these channel species at a 3.8–5 times higher density than in nonactive regions of the cell. Taken together, these observations reveal distinct patterns and length scales of RyR and IP3R1 co-clustering at contact sites between the ER and the surface plasmalemma that encode the positions and the quantity of Ca2+ released at each Ca2+ spark.
+  date: '2024-01-03'
+  image: images/DRG.jpg
+  tags:
+    - correlative structure-function imaging
+    - ryanodine receptor 
+    - inositol triphosphate receptor 
+    - calcium sparks
+
+
 - id: doi:10.1098/rsob.230045
   type: paper
   description: Rapid release of calcium from internal stores via ryanodine receptors (RyRs) is one of the fastest types of cytoplasmic second messenger signalling in excitable cells. In the heart, rapid summation of the elementary events of calcium release, 'calcium sparks', determine the contraction of the myocardium. We adapted a correlative super-resolution microscopy protocol to correlate sub-plasmalemmal spontaneous calcium sparks in rat right ventricular myocytes with the local nanoscale RyR2 positions. This revealed a steep relationship between the integral of a calcium spark and the sum of the local RyR2s. Segmentation of recurring spark sites showed evidence of repeated and triggered saltatory activation of multiple local RyR2 clusters. In myocytes taken from failing right ventricles, RyR2 clusters themselves showed a dissipated morphology and fragmented (smaller) clusters. They also featured greater heterogeneity in both the spark properties and the relationship between the integral of the calcium spark and the local ensemble of RyR2s. While fragmented (smaller) RyR2 clusters were rarely observed directly underlying the larger sparks or the recurring spark sites, local interrogation of the channel-to-channel distances confirmed a clear link between the positions of each calcium spark and the tight, non-random clustering of the local RyR2 in both healthy and failing ventricles.
