@@ -644,8 +644,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1440-1681.2011.05578.x
-  title: Comparison of the organization of t-tubules, sarcoplasmic reticulum and ryanodine
-    receptors in rat and human ventricular myocardium
+  title: "Comparison of the organization of t\u2010tubules, sarcoplasmic reticulum\
+    \ and ryanodine receptors in rat and human ventricular myocardium"
   authors:
   - ID Jayasinghe
   - DJ Crossman
@@ -766,8 +766,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1113/expphysiol.2008.043976
-  title: Three-dimensional high-resolution imaging of cardiac proteins to construct
-    models of intracellular Ca<sup>2+</sup>signalling in rat ventricular myocytes
+  title: "Three\u2010dimensional high\u2010resolution imaging of cardiac proteins\
+    \ to construct models of intracellular Ca<sup>2+</sup> signalling in rat ventricular\
+    \ myocytes"
   authors:
   - Christian Soeller
   - Isuru D. Jayasinghe
