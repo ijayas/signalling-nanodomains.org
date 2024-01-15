@@ -1,39 +1,14 @@
-- title: Postdoctoral fellow (UNSW Sydney)
-  subtitle: in cell biology and imaging (Experimental)
+- title: Post-Doctoral Fellow in Advanced Biomedical Microscopy (UNSW Sydney)
+  subtitle: Innovations in localization and super-resolution microscopies
   group: Featured
-  image: images/stemcells.jpg
-  link: https://www.seek.com.au/job/72264535?ref=search-standalone&type=standard#sol=8f8fb50543c9ac6e61a690538f05425f82900706
-  description: We seek a Research Associate/ Post-doctoral Fellow (Level A) on a 3-year project to lead multiplexed single molecule fluorescence imaging of heart tissues, cells and model cell assays. The objective of the position will include leveraging multiplexing capability of point accumulation for imaging in nanoscale topography (PAINT) to study combinations of molecular interactions in nanoscale signalling domains in cardiac muscle cells. For details, get in touch with PI, Dr Izzy Jayasinghe.
-  tags:
-    - cardiac cell biology
-    - super resolution microscopy
-    - multiplexed imaging
-    - cardiac signalling nanodomains
-  
-    
-- title: Postdoctoral fellow (UNSW Sydney)
-  subtitle: In spatial omics and machine learning (Computational)
-  group: Featured
-  image: images/ai.jpg
-  link: https://www.seek.com.au/job/72263983?ref=search-standalone&type=standard#sol=c6b05fab7ceada7f72ed23e5878f79319e864734
-  description: We seek a Research Associate/ Post-doctoral Fellow (Level A) for a 3-year project to develop a spatial omics and pattern recognition pipeline that leverages multiplexed single molecule fluorescence imaging of heart tissues and cells. The objective of this project is to leverage and advance existing computational models, image analysis pipelines and statistical pipelines to recognise variability in protein expression patterns in cells to inform our understanding of molecular-scale pathology and responses to drug exposures in cardiac muscle cells. For details, get in touch with PI, Dr Izzy Jayasinghe.
-  tags:
-    - spatial omics
-    - machine learning
-    - molecular networks
-    - single molecule analysis
-
-- title: Postdoc (UNSW Sydney)
-  subtitle: In high-precision protein mapping and localisation microscopy methods (Experimental)
-  group: More
   image: images/illum.jpg
-  link: https://sms.unsw.edu.au/izzy-jayasinghe/
+  link: https://external-careers.jobs.unsw.edu.au/cw/en/job/521572/postdoctoral-fellow-in-advanced-biomedical-microscopy
   description: We seek a Research Associate/ Post-doctoral Fellow (Level A) to lead the nanoscale mapping of protein structure and conformations using single molecule localisation microscopy. The objective of this position is to lead the development single molecule imaging protocols, a novel optical instrument, and experimental and data pipelines to image single proteins in situ and in vitro at nanometre-scale resolution.   For details, get in touch with PI, Dr Izzy Jayasinghe.
   tags:
     - localisation microscopy
-    - single molecule method development
+    - single molecule imaging
     - instrumentation
-    - single molecule analytics
+    - biomedical imaging
 
 - title: Fully funded PhD opportunity (UNSW Sydney)
   subtitle: Molecular scale mapping of intracellular signalling nanodomains in the heart
