@@ -25,49 +25,6 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/cells13010038
-  title: Super-Resolution Analysis of the Origins of the Elementary Events of ER Calcium
-    Release in Dorsal Root Ganglion Neurons
-  authors:
-  - Miriam E. Hurley
-  - Shihab S. Shah
-  - Thomas M. D. Sheard
-  - Hannah M. Kirton
-  - Derek S. Steele
-  - Nikita Gamper
-  - Izzy Jayasinghe
-  publisher: Cells
-  date: '2024-01-03'
-  link: https://doi.org/gs98zv
-  orcid: 0000-0003-2461-478X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: "Coordinated events of calcium (Ca2+) released from the endoplasmic\
-    \ reticulum (ER) are key second messengers in excitable cells. In pain-sensing\
-    \ dorsal root ganglion (DRG) neurons, these events can be observed as Ca2+ sparks,\
-    \ produced by a combination of ryanodine receptors (RyR) and inositol 1,4,5-triphosphate\
-    \ receptors (IP3R1). These microscopic signals offer the neuronal cells with a\
-    \ possible means of modulating the subplasmalemmal Ca2+ handling, initiating vesicular\
-    \ exocytosis. With super-resolution dSTORM and expansion microscopies, we visualised\
-    \ the nanoscale distributions of both RyR and IP3R1 that featured loosely organised\
-    \ clusters in the subplasmalemmal regions of cultured rat DRG somata. We adapted\
-    \ a novel correlative microscopy protocol to examine the nanoscale patterns of\
-    \ RyR and IP3R1 in the locality of each Ca2+ spark. We found that most subplasmalemmal\
-    \ sparks correlated with relatively small groups of RyR whilst larger sparks were\
-    \ often associated with larger groups of IP3R1. These data also showed spontaneous\
-    \ Ca2+ sparks in <30% of the subplasmalemmal cell area but consisted of both these\
-    \ channel species at a 3.8\u20135 times higher density than in nonactive regions\
-    \ of the cell. Taken together, these observations reveal distinct patterns and\
-    \ length scales of RyR and IP3R1 co-clustering at contact sites between the ER\
-    \ and the surface plasmalemma that encode the positions and the quantity of Ca2+\
-    \ released at each Ca2+ spark."
-  image: images/DRG.jpg
-  tags:
-  - correlative structure-function imaging
-  - ryanodine receptor
-  - inositol triphosphate receptor
-  - calcium sparks
 - id: doi:10.1016/j.xcrp.2023.101719
   title: Geometry-preserving expansion microscopy microplates enable high-fidelity
     nanoscale distortion mapping
@@ -797,3 +754,45 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/cells13010038
+  title: Super-Resolution Analysis of the Origins of the Elementary Events of ER Calcium
+    Release in Dorsal Root Ganglion Neurons
+  authors:
+  - Miriam E. Hurley
+  - Shihab S. Shah
+  - Thomas M. D. Sheard
+  - Hannah M. Kirton
+  - Derek S. Steele
+  - Nikita Gamper
+  - Izzy Jayasinghe
+  publisher: Cells
+  date: '2024-01-03'
+  link: https://doi.org/gs98zv
+  type: paper
+  description: "Coordinated events of calcium (Ca2+) released from the endoplasmic\
+    \ reticulum (ER) are key second messengers in excitable cells. In pain-sensing\
+    \ dorsal root ganglion (DRG) neurons, these events can be observed as Ca2+ sparks,\
+    \ produced by a combination of ryanodine receptors (RyR) and inositol 1,4,5-triphosphate\
+    \ receptors (IP3R1). These microscopic signals offer the neuronal cells with a\
+    \ possible means of modulating the subplasmalemmal Ca2+ handling, initiating vesicular\
+    \ exocytosis. With super-resolution dSTORM and expansion microscopies, we visualised\
+    \ the nanoscale distributions of both RyR and IP3R1 that featured loosely organised\
+    \ clusters in the subplasmalemmal regions of cultured rat DRG somata. We adapted\
+    \ a novel correlative microscopy protocol to examine the nanoscale patterns of\
+    \ RyR and IP3R1 in the locality of each Ca2+ spark. We found that most subplasmalemmal\
+    \ sparks correlated with relatively small groups of RyR whilst larger sparks were\
+    \ often associated with larger groups of IP3R1. These data also showed spontaneous\
+    \ Ca2+ sparks in <30% of the subplasmalemmal cell area but consisted of both these\
+    \ channel species at a 3.8\u20135 times higher density than in nonactive regions\
+    \ of the cell. Taken together, these observations reveal distinct patterns and\
+    \ length scales of RyR and IP3R1 co-clustering at contact sites between the ER\
+    \ and the surface plasmalemma that encode the positions and the quantity of Ca2+\
+    \ released at each Ca2+ spark."
+  image: images/DRG.jpg
+  tags:
+  - correlative structure-function imaging
+  - ryanodine receptor
+  - inositol triphosphate receptor
+  - calcium sparks
+  plugin: sources.py
+  file: sources.yaml
