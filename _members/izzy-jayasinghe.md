@@ -2,7 +2,7 @@
 name: Dr Izzy Jayasinghe (she/her)
 image: images/izzy.jpg
 role: pi
-description: Principal Investigator
+description: Associate Professor & Group Leader
 aliases:
   - I Jayasinghe
   - I. Jayasinghe
