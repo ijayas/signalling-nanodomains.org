@@ -9,7 +9,7 @@ aliases:
   - Ralf Köhler
 links:
   Linkedin: ralf-köhler-a9b4b7256
-  ORCID: 0000-0001-9563-2913
+  ORCiD: 0000-0001-9563-2913
 
 ---
 
