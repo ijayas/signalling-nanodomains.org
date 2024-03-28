@@ -2,7 +2,7 @@
 name: Dr Tom Sheard (he/him)
 image: images/tom.jpg
 role: postdoc
-description: Postdoctoral Research Associate
+description: Senior Postdoctoral Research Associate
 aliases:
   - TMD Sheard
   - Thomas M.D. Sheard
