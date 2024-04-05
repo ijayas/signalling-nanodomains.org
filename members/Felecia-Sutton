@@ -513,19 +513,19 @@ window["ExpressiveAnimatorPlayer"](
     
       
         <a
-          href="/blog/"
-          data-tooltip="Musings and miscellany"
+          href="/team/"
+          data-tooltip="About our team"
         >
-          Blog
+          Team
         </a>
       
     
       
         <a
-          href="/team/"
-          data-tooltip="About our team"
+          href="/blog/"
+          data-tooltip="Musings and miscellany"
         >
-          Team
+          Blog
         </a>
       
     
@@ -584,7 +584,7 @@ window["ExpressiveAnimatorPlayer"](
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Felecia Sutton">
-    <img src="/images/team/some-image.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+    <img src="/images/Felecia.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
@@ -639,7 +639,7 @@ window["ExpressiveAnimatorPlayer"](
 </div>
 
 
-A bio for Felecia
+After first starting my undergraduate degree in Neuroscience at the University of Leeds in 2019, I was inspired by the neuronal extracellular matrix and glycobiology. This led me to continue my degree with an Integrated Masters, where I worked on characterising a novel neuronal organoid and primary cortical neuron model of perineuronal nets (PNNs), a specialised pericellular matrix structure. Throughout this project I developed a great interest in utilising imaging techniques to gain further insights into the finer structures and interactions of the molecular components that make up PNNs. I started my PhD in October 2023 at the University of Leeds. My project will aim to further define the spatial organisation and dynamics of PNNs in situ, as well as determine the interactions of the molecular components with relation to the synapse. Expansion microscopy will be used to visualise the spatial relationship of PNNs molecules with the synapse and biophysical analysis will be used to interrogate the hierarchical assembly of PNNs. Outside of the lab I enjoy cooking, yoga, and exploring the outdoors. 
 
 
 
