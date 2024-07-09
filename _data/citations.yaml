@@ -20,11 +20,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: ':'
-  title: 'Transverse tubule remodelling: a cellular pathology driven by both sides
-    of the plasmalemma?'
-  publisher: Biophysical Reviews
-  date: '2023-10-09'
-  link: https://link.springer.com/article/10.1007/s12551-017-0273-7
+  title: Super-resolution analysis of the origins of the elementary events of ER calcium
+    release in dorsal root ganglion neurons
+  publisher: Cells
+  date: '2023-12-27'
+  link: https://www.mdpi.com/2073-4409/13/1/38
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
@@ -368,6 +368,50 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1021/acsnano.8b08742
+  title: Three-Dimensional and Chemical Mapping of Intracellular Signaling Nanodomains
+    in Health and Disease with Enhanced Expansion Microscopy
+  authors:
+  - Thomas M. D. Sheard
+  - Miriam E. Hurley
+  - John Colyer
+  - Ed White
+  - Ruth Norman
+  - Eleftheria Pervolaraki
+  - Kaarjel K. Narayanasamy
+  - Yufeng Hou
+  - Hannah M. Kirton
+  - Zhaokang Yang
+  - Liam Hunter
+  - Jung-uk Shim
+  - Alexander H. Clowsley
+  - Andrew J. Smith
+  - David Baddeley
+  - Christian Soeller
+  - Michael A. Colman
+  - Izzy Jayasinghe
+  publisher: ACS Nano
+  date: '2019-02-08'
+  link: https://doi.org/gtvsr8
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphys.2018.01472
+  title: 'Shining New Light on the Structural Determinants of Cardiac Couplon Function:
+    Insights From Ten Years of Nanoscale Microscopy'
+  authors:
+  - Izzy Jayasinghe
+  - Alexander H. Clowsley
+  - Oscar de Langen
+  - Sonali S. Sali
+  - David J. Crossman
+  - Christian Soeller
+  publisher: Frontiers in Physiology
+  date: '2018-10-22'
+  link: https://doi.org/gfk57v
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/J.CELREP.2017.12.045
   title: True Molecular Scale Visualization of Variable Clustering Properties of Ryanodine
     Receptors
@@ -452,7 +496,7 @@
     ryanodine receptor clusters in cardiomyocytes
   authors:
   - Michelle L. Munro
-  - Izzy Jayasinghe
+  - Isuru D. Jayasinghe
   - Qiongling Wang
   - Ann Quick
   - Wei Wang
