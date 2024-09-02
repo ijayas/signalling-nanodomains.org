@@ -513,19 +513,19 @@ window["ExpressiveAnimatorPlayer"](
     
       
         <a
-          href="/team/"
-          data-tooltip="About our team"
+          href="/blog/"
+          data-tooltip="Musings and miscellany"
         >
-          Team
+          Blog
         </a>
       
     
       
         <a
-          href="/blog/"
-          data-tooltip="Musings and miscellany"
+          href="/team/"
+          data-tooltip="About our team"
         >
-          Blog
+          Team
         </a>
       
     
