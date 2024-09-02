@@ -2,7 +2,7 @@
 name: Dr Arindam Ghosh (he/him)
 image: images/arindam.jpg
 role: postdoc
-description: Senior Postdoctoral Fellow (UNSW, starting in Sept 2024)
+description: Senior Postdoctoral Fellow 
 aliases:
   - A Ghosh
   - Arindam Ghosh
