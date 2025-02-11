@@ -30,6 +30,7 @@ We want to push the frontier of single molecule science and train the next gener
 # {% include icon.html icon="fa-solid fa-users" %}Lab Alumni
 
 - Dr Tom Sheard (Senior postdoc; PhD researcher; 2016-2024)
+- Dr Tom Hamer (postdoc; 2024-2025)
 - Michael Spencer (Research Technician; 2021-2023)
 - Benjamin H.K. Allouis (MSc Student; 2022-2023)
 - Rebecca Lavery (MSc Student; 2021-2022)
