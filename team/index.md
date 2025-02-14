@@ -34,7 +34,7 @@ We want to push the frontier of single molecule science and train the next gener
 - Michael Spencer (Research Technician; 2021-2023)
 - Benjamin H.K. Allouis (MSc Student; 2022-2023)
 - Rebecca Lavery (MSc Student; 2021-2022)
-- Chiara Pillen (RMS summer scholar; 2021)
+- Chiara Pillen (Royal Microscopical Society summer research scholar; 2021)
 - Dr Ashley Rowley (PhD researcher; 2018-2021)
 - Dr Miriam Hurley (PhD researcher; 2016-2020)
 - Dr Katarina Miteva (PhD researcher; 2016-2020)
