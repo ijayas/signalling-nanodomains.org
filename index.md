@@ -5,7 +5,7 @@ We are a team of biomedical and biophysical scientists based in UNSW Sydney who 
 
 {%
   include figure.html
-  image="images/locations2.jpg"
+  image="images/locations3.jpg"
   width="100%"
 %}
 
