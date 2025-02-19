@@ -1,7 +1,7 @@
 ---
 ---
 
-We are a team of biomedical and biophysical scientists based in UNSW Sydney and Sheffield University who harness the latest single molecule, optical, and omic technologies to study cell signalling. Our goal is to use our expertise in how signals are transdueced, particularly inside cells, to shed light on the mechanisms driving pathophysiologies such as heart disease, movement disorders, and pain. Concurrently, we work on developing new methodologies that both we and our scientific community can utilise for advancing our understanding of disease and help drive the development of theraputic strategies.
+We are a team of biomedical and biophysical scientists based in UNSW Sydney who harness the latest single molecule, optical, and omic technologies to study cell signalling. Our goal is to use our expertise in how signals are transdueced, particularly inside cells, to shed light on the mechanisms driving pathophysiologies such as heart disease, movement disorders, and pain. Concurrently, we work on developing new methodologies that both we and our scientific community can utilise for advancing our understanding of disease and help drive the development of theraputic strategies.
 
 {%
   include figure.html
