@@ -2,7 +2,7 @@
 name: Dr Ralf Köhler (he/him)
 image: images/ralf.jpg
 role: postdoc
-description: Postdoctoral Research Fellow (UNSW)
+description: Postdoctoral Research Fellow
 aliases:
   - RL Kohler
   - Ralf L. Kohler
