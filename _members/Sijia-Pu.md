@@ -1,8 +1,8 @@
 ---
 name: Sijia Pu (she/her)
 image: images/Sijia.jpg
-role: PhD student
-description: PhD student (UNSW)
+role: sp
+description: PhD researcher (UNSW)
 aliases:
   - S Pu
   - Sijia Pu
