@@ -2,7 +2,7 @@
 name: Sijia Pu (she/her)
 image: images/Sijia.jpg
 role: sp
-description: PhD researcher (UNSW)
+description: PhD researcher
 aliases:
   - S Pu
   - Sijia Pu
