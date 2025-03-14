@@ -43,17 +43,17 @@
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Felecia Sutton">
-<meta name="description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; first supervised by Drs Jessica Kwok & Ralf Richter)">
+<meta name="description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; Supervised by Drs Jessica Kwok & Ralf Richter)">
 
 <meta property="og:title" content="Felecia Sutton">
 <meta property="og:site_title" content="Signalling Nanodomains Lab">
-<meta property="og:description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; first supervised by Drs Jessica Kwok & Ralf Richter)">
+<meta property="og:description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; Supervised by Drs Jessica Kwok & Ralf Richter)">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Felecia Sutton">
-<meta property="twitter:description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; first supervised by Drs Jessica Kwok & Ralf Richter)">
+<meta property="twitter:description" content="Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; Supervised by Drs Jessica Kwok & Ralf Richter)">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -69,7 +69,7 @@
       "@type": "WebSite",
     
     "name": "Felecia Sutton",
-    "description": "Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; first supervised by Drs Jessica Kwok & Ralf Richter)",
+    "description": "Visualising the structures of intracellular communication, one molecule at a time. PhD Researcher (Leeds; Supervised by Drs Jessica Kwok & Ralf Richter)",
     "headline": "Felecia Sutton",
     "publisher": {
       "@type": "Organization",
@@ -598,7 +598,7 @@ window["ExpressiveAnimatorPlayer"](
           <span class="portrait-role">
             
             <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Researcher (Leeds; first supervised by Drs Jessica Kwok &amp; Ralf Richter)</span>
+            <span>PhD Researcher (Leeds; Supervised by Drs Jessica Kwok &amp; Ralf Richter)</span>
           </span>
         
       </span>
