@@ -2,7 +2,7 @@
 name: Dr Bhakthi (Honda) Jayathilaka (she/her)
 image: images/honda.jpg
 role: postdoc
-description: Postdoctoral Research Fellow (UNSW)
+description: Postdoctoral Research Fellow
 aliases:
   - Pavithra Bhakthi Jayathilaka
   - Bhakthi Rajapaksha
