@@ -109,7 +109,8 @@
   - cardiac right ventricular failure
   - calcium sparks
 - id: doi:10.26508/lsa.202201650
-  title: Expansion microscopy reveals subdomains in<i>C. elegans</i>germ granules
+  title: "Expansion microscopy reveals subdomains in\n                    <i>C. elegans</i>\n\
+    \                    germ granules"
   authors:
   - Kin M Suen
   - Thomas MD Sheard
@@ -133,7 +134,7 @@
   - Michael E Spencer
   - Kin M. Suen
   - Izzy Jayasinghe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-02-22'
   link: https://doi.org/gst2bg
   orcid: 0000-0003-2461-478X
@@ -150,7 +151,7 @@
   - Tayla Shakespeare
   - Ashley Cadby
   - Izzy Jayasinghe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-02-21'
   link: https://doi.org/gst2bh
   orcid: 0000-0003-2461-478X
@@ -165,7 +166,7 @@
   - Thomas M.D. Sheard
   - Derek Steele
   - Izzy Jayasinghe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-02-13'
   link: https://doi.org/gst2bj
   orcid: 0000-0003-2461-478X
@@ -243,14 +244,15 @@
   - Colin Henderson
   - William Fuller
   - Krzysztof Wypijewski
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-09-15'
   link: https://doi.org/gst2bn
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.05.29.493872
-  title: Expansion microscopy reveals subdomains in <i>C. elegans</i> germ granules
+  title: "Expansion microscopy reveals subdomains in\n                  <i>C. elegans</i>\n\
+    \                  germ granules"
   authors:
   - Kin M. Suen
   - Thomas M. D. Sheard
@@ -258,7 +260,7 @@
   - Dovile Milonaityte
   - Izzy Jayasinghe
   - John E. Ladbury
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-05-29'
   link: https://doi.org/gst2bp
   orcid: 0000-0003-2461-478X
@@ -290,7 +292,7 @@
   - John Colyer
   - Ed White
   - Izzy Jayasinghe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-22'
   link: https://doi.org/gst2br
   orcid: 0000-0003-2461-478X
@@ -309,7 +311,7 @@
   - Izzy Jayasinghe
   - Hector H. Valdivia
   - John Colyer
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-28'
   link: https://doi.org/gst2bs
   orcid: 0000-0003-2461-478X
@@ -325,7 +327,7 @@
   - Raquel Mesquita-Riberio
   - Melissa L. Mather
   - Izzy Jayasinghe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-21'
   link: https://doi.org/gssrw3
   orcid: 0000-0003-2461-478X
@@ -766,6 +768,22 @@
   publisher: Biophysical Journal
   date: '2009-01-01'
   link: https://doi.org/fwtvfh
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jmi.70043
+  title: "A detailed protocol for expansion microscopy of\n                    <i>Paracentrotus\
+    \ lividus</i>\n                    embryos and larvae: Incorporating decalcification\
+    \ for improved imaging"
+  authors:
+  - Thomas M. D. Sheard
+  - Davide Sartori
+  - Matteo Colombo
+  - Izzy Jayasinghe
+  - Andrea Gaion
+  publisher: Journal of Microscopy
+  date: '2025-10-28'
+  link: https://doi.org/g99tmv
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
