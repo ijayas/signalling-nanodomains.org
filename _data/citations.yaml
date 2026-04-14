@@ -22,9 +22,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: ':'
-  title: True molecular-scale imaging of signalling nanodomains in the healthy and
-    failing heart
-  publisher: Invited seminar to Department of Medicine, UCL, London
+  title: Visual counting tools to study the molecules of the healthy and failing heart
+  publisher: HELSI Bites public lecture; Healthy Lifespan Institute; Invited by Prof
+    Sherif El-Khamisy.
   date: '2026-04-14'
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
@@ -930,7 +930,7 @@
   image: images/ACSNanoApr2026.jpg
   tags:
   - endosomal signalling
-  - epidermal growth factor receptor-1
+  - epidermal growth factor receptor 1
   - expansion microscopy
   - 3D visualisation
   plugin: sources.py
