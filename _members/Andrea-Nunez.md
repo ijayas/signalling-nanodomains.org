@@ -8,9 +8,7 @@ aliases:
   - Andrea Nunez
 
 links:
-  home-page: [https://scholar.google.com/citations?user=gg0JhvoAAAAJ&hl=en](https://www.researchgate.net/profile/Andrea-Nunez)
-
-
+  home-page: [https://www.researchgate.net/profile/Andrea-Nunez]
 
 ---
 
