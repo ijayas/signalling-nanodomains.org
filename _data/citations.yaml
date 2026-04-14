@@ -1,5 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acsnano.6c00277
+  title: Mapping Epidermal Growth Factor Receptor-1 Sorting Domains in Endosomes with
+    a Calibrated Three-Dimensional Expansion Microscopy Toolkit
+  authors:
+  - Tayla Shakespeare
+  - Rajpinder S. Seehra
+  - Neftali Flores Rodriguez
+  - Nkolika Atuanya
+  - Thomas M. D. Sheard
+  - "Ralf K\xF6hler"
+  - Daniel Bose
+  - Lydia Wunderley
+  - Philip Woodman
+  - Barbara Ciani
+  - Izzy Jayasinghe
+  publisher: ACS Nano
+  date: '2026-03-17'
+  link: https://doi.org/hbw2wr
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: True molecular-scale imaging of signalling nanodomains in the healthy and
+    failing heart
+  publisher: Invited seminar to Department of Medicine, UCL, London
+  date: '2026-04-14'
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+  link: https://www.sheffield.ac.uk/healthy-lifespan/connect/events/helsi-bites-visual-counting-tools-study-molecules-healthy-and-failing-heart
+- id: doi:10.1101/2025.10.01.678490
+  title: Mapping EGFR1 sorting domains in endosomes with a calibrated 3D expansion
+    microscopy toolkit
+  authors:
+  - Tayla Shakespeare
+  - Rajpinder S. Seehra
+  - Neftali Flores Rodriguez
+  - Nkolika Atuanya
+  - Thomas M.D. Sheard
+  - "Ralf K\xF6hler"
+  - Daniel Bose
+  - Philip Woodman
+  - Barbara Ciani
+  - Izzy Jayasinghe
+  publisher: openRxiv
+  date: '2025-10-02'
+  link: https://doi.org/hbw2ws
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1096/fj.202201497RR
   title: "Cysteine post\u2010translational modifications regulate protein interactions\
     \ of caveolin\u20103"
@@ -19,12 +69,52 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
-  title: Super-resolution analysis of the origins of the elementary events of ER calcium
-    release in dorsal root ganglion neurons
-  publisher: Cells
-  date: '2023-12-27'
-  link: https://www.mdpi.com/2073-4409/13/1/38
+- id: doi:10.1016/j.cell.2024.02.021
+  title: Rigorous science demands support of transgender scientists
+  authors:
+  - Krisha Aghi
+  - Brendan M. Anderson
+  - Bria M. Castellano
+  - Avery Cunningham
+  - Maggie Delano
+  - Evyn S. Dickinson
+  - Lexy von Diezmann
+  - Sofia Kirke Forslund-Startceva
+  - Dori M. Grijseels
+  - Sebastian S. Groh
+  - Eartha Mae Guthman
+  - Izzy Jayasinghe
+  - Juliet Johnston
+  - Sam Long
+  - Jess F. McLaughlin
+  - Maeve McLaughlin
+  - Miriam Miyagi
+  - Bittu Rajaraman
+  - "F\xE1tima Sancheznieto"
+  - Ayden I. Scheim
+  - "Sim\xF3n(e) D. Sun"
+  - F. Dylan Titmuss
+  - Reubs J. Walsh
+  - Zara Y. Weinberg
+  publisher: Cell
+  date: '2024-03-01'
+  link: https://doi.org/hbw2wt
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26508/lsa.202302405
+  title: "Correction: Expansion microscopy reveals subdomains in\n               \
+    \     <i>C. elegans</i>\n                    germ granules"
+  authors:
+  - Kin M Suen
+  - Thomas MD Sheard
+  - Chi-Chuan Lin
+  - Dovile Milonaityte
+  - Izzy Jayasinghe
+  - John E Ladbury
+  publisher: Life Science Alliance
+  date: '2023-10-09'
+  link: https://doi.org/gst2bc
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
@@ -295,6 +385,35 @@
   publisher: openRxiv
   date: '2021-10-22'
   link: https://doi.org/gst2br
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2021.05.043
+  title: 'STEM Pride: Perspectives from transgender, nonbinary, and genderqueer scientists'
+  authors:
+  - Adam Armada-Moreira
+  - Carrie Cizauskas
+  - Gabriela Fleury
+  - Sofia Kirke Forslund
+  - Eartha Mae Guthman
+  - Aflah Hanafiah
+  - Jen M. Hope
+  - Izzy Jayasinghe
+  - Danny McSweeney
+  - Iris D. Young
+  publisher: Cell
+  date: '2021-06-01'
+  link: https://doi.org/gm3bj9
+  orcid: 0000-0003-2461-478X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/bs.mcb.2020.04.019
+  title: Enhanced expansion microscopy to measure nanoscale structural and biochemical
+    remodeling in single cells
+  authors: []
+  publisher: Methods in Cell Biology
+  date: '2021-01-01'
+  link: https://doi.org/hbw2wv
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
