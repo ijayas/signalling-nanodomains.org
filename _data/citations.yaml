@@ -136,29 +136,8 @@
   date: '2023-12-01'
   link: https://doi.org/gs8h3x
   orcid: 0000-0003-2461-478X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Expansion microscopy (ExM) is a versatile super-resolution microscopy
-    pipeline, leveraging nanoscale biomolecular crosslinking and osmotically driven
-    swelling of hydrogels. Currently, ExM is a laborious and skill-intensive technique,
-    involving manual handling of the hydrogels that can compromise the integrity of
-    the gels and capacity to track gel isotropy, hence diminishing reproducibility.
-    We have developed a 3D-printable microplate system to contain the entire ExM workflow
-    within each well, enabling in situ image acquisition and eliminating the need
-    for direct handling of the hydrogels. The preservation of the gel geometry and
-    orientation of the microplate wells enables convenient tracking of gel expansion,
-    pre- and post-ExM image acquisition, and distortion mapping of every cell or region
-    of interest. We demonstrate the utility of this approach with both single-color
-    and multiplexed ExM of cultured HeLa cells and dissected pupal Drosophila melanogaster
-    wing tissue to reveal distortion-prone structures ranging from sub-cellular organelles
-    to micron-scale tissue regions.
-  image: images/plate.jpg
-  tags:
-  - 3D printing
-  - expansion microscopy
-  - data validation
-  - distortion tracking
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rsob.230045
   title: Correlative super-resolution analysis of cardiac calcium sparks and their
     molecular origins in health and disease
@@ -192,7 +171,7 @@
     or the recurring spark sites, local interrogation of the channel-to-channel distances
     confirmed a clear link between the positions of each calcium spark and the tight,
     non-random clustering of the local RyR2 in both healthy and failing ventricles.
-  image: images/correlative.jpg
+  image: images/OB2023.jpg
   tags:
   - correlative structure-function imaging
   - ryanodine receptor nanodomains
@@ -906,45 +885,84 @@
   orcid: 0000-0003-2461-478X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/cells13010038
-  title: Super-Resolution Analysis of the Origins of the Elementary Events of ER Calcium
-    Release in Dorsal Root Ganglion Neurons
+- id: 10.1021/acsnano.6c00277
+  title: Mapping Epidermal Growth Factor Receptor-1 Sorting Domains in Endosomes with
+    a Calibrated Three-Dimensional Expansion Microscopy Toolkit
   authors:
-  - Miriam E. Hurley
-  - Shihab S. Shah
+  - Tayla Shakespeare
+  - Rajpinder S. Seehra
+  - Neftali Flores Rodriguez
+  - Nkolika Atuanya
   - Thomas M. D. Sheard
-  - Hannah M. Kirton
-  - Derek S. Steele
-  - Nikita Gamper
+  - "Ralf K\xF6hler"
+  - Daniel Bose
+  - Lydia Wunderley
+  - Philip Woodman
+  - Barbara Ciani
   - Izzy Jayasinghe
-  publisher: Cells
-  date: '2024-01-03'
-  link: https://doi.org/gs98zv
+  publisher: ACS Nano
+  date: '2024-04-14'
+  link: https://doi.org/hbw2wr
   type: paper
-  description: "Coordinated events of calcium (Ca2+) released from the endoplasmic\
-    \ reticulum (ER) are key second messengers in excitable cells. In pain-sensing\
-    \ dorsal root ganglion (DRG) neurons, these events can be observed as Ca2+ sparks,\
-    \ produced by a combination of ryanodine receptors (RyR) and inositol 1,4,5-triphosphate\
-    \ receptors (IP3R1). These microscopic signals offer the neuronal cells with a\
-    \ possible means of modulating the subplasmalemmal Ca2+ handling, initiating vesicular\
-    \ exocytosis. With super-resolution dSTORM and expansion microscopies, we visualised\
-    \ the nanoscale distributions of both RyR and IP3R1 that featured loosely organised\
-    \ clusters in the subplasmalemmal regions of cultured rat DRG somata. We adapted\
-    \ a novel correlative microscopy protocol to examine the nanoscale patterns of\
-    \ RyR and IP3R1 in the locality of each Ca2+ spark. We found that most subplasmalemmal\
-    \ sparks correlated with relatively small groups of RyR whilst larger sparks were\
-    \ often associated with larger groups of IP3R1. These data also showed spontaneous\
-    \ Ca2+ sparks in <30% of the subplasmalemmal cell area but consisted of both these\
-    \ channel species at a 3.8\u20135 times higher density than in nonactive regions\
-    \ of the cell. Taken together, these observations reveal distinct patterns and\
-    \ length scales of RyR and IP3R1 co-clustering at contact sites between the ER\
-    \ and the surface plasmalemma that encode the positions and the quantity of Ca2+\
-    \ released at each Ca2+ spark."
-  image: images/DRG.jpg
+  description: Endosomes are nanoscale intracellular compartments that sort and recycle
+    cell-surface receptors such as epidermal growth factor receptor-1 (EGFR1). Nanometer-scale
+    interactions and coclustering of signaling proteins, cargo, and the membrane are
+    critical to this process, yet direct 3D visualization has been hindered by the
+    limited resolution of conventional and super-resolution microscopies. Here, we
+    adapt expansion microscopy (ExM) to visualize and quantify nanoclusters of endosomal
+    proteins in human retinal pigment epithelial (RPE-1) cells. We developed a 3D
+    distortion analysis leveraging the Farneback optical-flow principle to detect
+    anisotropies in hydrogel expansion, revealing under-expansion of cytoplasmic regions
+    within ExM hydrogels and overestimation of size and distance measurements of small
+    compartments such as endosomes. To calibrate ExM images of cytoplasmic regions
+    containing endosomes, we introduced a self-assembling protein nanocage that reports
+    the true local nanoscale expansion factor. To stimulate and visualize EGFR1 internalization
+    and sorting, we applied a pulse-chase protocol with fluorescently tagged epidermal
+    growth factor (EGF), fixed cells at 15 and 30 min, and subjected samples to 10-fold
+    ExM and multiplexed 3D Airyscan microscopy to map cargo and EGFR1 relative to
+    other endosomal proteins. A volume tracing pipeline was developed to visualize
+    the changes in the labeled EGF and EGFR1 densities at the limiting membrane of
+    the endosomes. These changes included enrichment of EGF and EGFR1 in the endosomal
+    interior and accumulation of Rab5a near the limiting membrane during early endosome
+    maturation. Together, this multiplexed 3D ExM toolkit provides a quantitative
+    framework for visualizing and measuring small subcellular organelles at true molecular-scale
+    resolution.
+  image: images/ACSNanoApr2026.jpg
   tags:
-  - correlative structure-function imaging
-  - ryanodine receptor
-  - inositol triphosphate receptor
-  - calcium sparks
+  - endosomal signalling
+  - epidermal growth factor receptor-1
+  - expansion microscopy
+  - 3D visualisation
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.crmeth.2025.101082
+  title: Expansion microscopy reveals nano-scale insights into the human neuromuscular
+    junction
+  authors:
+  - Abdullah Ramadan
+  - Thomas M.D. Sheard
+  - Abrar Alhindi
+  - Philippa A. Rust
+  - Ross A. Jones
+  - Izzy Jayasinghe
+  - Thomas H. Gillingwater
+  publisher: Cell Reports Methods
+  date: '2025-06-14'
+  link: https://doi.org/hbw2xs
+  type: paper
+  description: The nano-scale structure of human neuromuscular junctions (NMJs) has
+    been difficult to assess using super-resolution imaging approaches due to practical
+    and technical limitations associated with muscle biopsy specimens, as well as
+    the high costs and specialized equipment required to perform super-resolution
+    microscopy. To address this issue, we have developed and optimized expansion microscopy
+    procedures suitable for use with human and mouse muscle tissues. We subsequently
+    developed specialized morphological quantification approaches to compare nano-scale
+    features of NMJs between species.
+  image: images/CRM2025.jpg
+  tags:
+  - Human neuromuscular junction
+  - expansion microscopy
+  - acetylcholine receptor
+  - human muscle
   plugin: sources.py
   file: sources.yaml
