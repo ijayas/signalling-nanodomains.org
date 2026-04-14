@@ -15,46 +15,24 @@
   group: projects
   image: images/UKRI-project.png 
   link: https://youtu.be/vqkzDOiWVXs?si=4rM2TocuRIrGcpWM
-  description: In a 7-year project funded by UK Research & Innovation, we are developing several innovations that are aimed at making super-resolution microscopy, expansion microscopy in particular, accessible and affordable for life sciences researchers. Amongst some of the work completed so far, we have characterised a series of 14 nondescript stains and 3D printed microplates for expansion microscopy. As a part of this project, we are also applying super-resolution to sample types and sub-fields that have not utilised super-resolution as much as mainstream cell biology. They include imaging thick tissues and whole organisms such as sea urchin larvae. More coming soon.
+  description: In a project originally started with a UK Research & Innovation Future Leader Fellowship awarded to Izzy, we continue to develop several innovations that are aimed at making super-resolution microscopy, expansion microscopy in particular, accessible and affordable for life sciences researchers. Amongst some of the work completed so far, we have characterised a series of 14 nondescript stains and 3D printed microplates for expansion microscopy. As a part of this project, we are also applying super-resolution to sample types and sub-fields that have not utilised super-resolution as much as mainstream cell biology. They include imaging thick tissues and whole organisms such as sea urchin larvae. 
   tags:
     - expansion microscopy
     - rapid prototyping
     - nondescript staining
     - democraticing super-resolution
 
-- title: Linking nanodomain structure directly with local function
+- title: Calcium-mobilised orchestration of Rab GTPases at vesicular intracellular compartments
   subtitle: 
   group: projects
-  image: images/correlative.jpg
-  link: https://github.com/ijayas/imagealigning
-  description: We have an ongoing interest in the calcium signals (calcium sparks) produced by intracellular ion channels such as ryanodine receptors and inositol triphosphate receptors. In cardiac muscle cells, ryanodine receptors organised into clusters within distinct signalling nanodomains work together in specific spatial patterns to produce these sparks. In pain sensing neurons from the dorsal root ganglia, these channels are less well clustered and produce much more variable sparks. Using a correlative imaging and analysis pipeline, we have pioneered the methods to visualising and decoding the spatial relationships between these calcium sparks and super-resolution maps of these channels.
-  repo: https://github.com/ijayas/imagealigning
+  image: images/endo.jpg
+  link: https://cen.acs.org/analytical-chemistry/microscopy/exm-toolkit-distortion-correction-protein-nanocages/104/web/2026/04
+  description: We have an ongoing interest in the Rab GTPases and their associated functions in driving the maturation and mobilisation of intracellular compartments such as endosomes and secretory granules. In a recent study published in ACS Nano, we show how we can map the nanoscale assemblies of Rab GTPases on surface sub-domains of such organelles. In ongoing work, we look to understand their relationship to calcium signals that initiate their mobilisation.
+  repo: https://zenodo.org/records/18711950
   tags:
-    - Nanodomains
-    - ryanodine receptor
-    - correlative imaging
-    - localisation microscopy
-    - calcium imaging
+    - Rab GTPases
+    - endosomes
+    - calcium signalling
+    - 3D super-resolution
 
-- title: Characterising a palette of directly applied fluorescent-ester dyes for expansion microscopy
-  subtitle: cataloguing the diversity of cell compartment staining with 14 ester-form dyes
-  group: tools
-  image: images/logD.jpg
-  link: https://tmdsheard.github.io/blogpost10_Esters.html
-  description:  An ongoing project looks to characterise the diversity of staining patterns that afford weighted staining to specific or groups of cell-compartments looks to offer researchers a range of new options and guidance to leverage fluorescent ester dyes as counter-stains in diffraction-limited and expansion microscopy. See rently publication in the journal Nanoscale.
-  tags:
-    - resource
-    - publication
-    - catalogue of fluorescent ester dyes
-    - open science
-    
-- title: 3D printable ExM microplate and distortion analysis tools
-  subtitle: A suite of tools to help improve the pipelines of ExM and validate ExM image data
-  group: tools
-  image: images/plate.jpg
-  link: https://lab.signalling-nanodomains.org/2023/11/19/A-3D-printable-microplate-for-distortion-detection-in-expansion-microscopy.html
-  description: Read more about our latest projects in using a 3D printable microplate systems for (a) reducing the manual handling of hydrogels, (b) improving throughput, and (c) enabling convenient distortion checking of expansion microscopy (ExM) samples.
-  tags:
-    - resource
-    - publication
-    - open science
+
