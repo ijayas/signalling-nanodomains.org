@@ -522,19 +522,19 @@ window["ExpressiveAnimatorPlayer"](
     
       
         <a
-          href="/team/"
-          data-tooltip="About our team"
+          href="/contact/"
+          data-tooltip="Twitter and Webpage"
         >
-          Team
+          Contact
         </a>
       
     
       
         <a
-          href="/contact/"
-          data-tooltip="Twitter and Webpage"
+          href="/team/"
+          data-tooltip="About our team"
         >
-          Contact
+          Team
         </a>
       
     
@@ -807,7 +807,7 @@ After first starting my undergraduate degree in Neuroscience at the University o
   </div>
 
   <div>
-    &copy; 2025
+    &copy; 2026
     Signalling Nanodomains Lab
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
