@@ -2,7 +2,7 @@
 name: Dr Izzy Jayasinghe
 image: images/izzy.jpg
 role: pi
-description: Associate Professor & Group Leader
+description: Associate Professor & Head of Dept, Molecular Medicine
 aliases:
   - I Jayasinghe
   - I. Jayasinghe
