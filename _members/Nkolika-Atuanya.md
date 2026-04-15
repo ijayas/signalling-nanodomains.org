@@ -1,5 +1,5 @@
 ---
-name: Nkolika Atuanya (she/her)
+name: Nkolika Atuanya
 image: images/Nkoli.jpg
 role: sp
 description: PhD Researcher 
