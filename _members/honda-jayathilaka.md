@@ -1,5 +1,5 @@
 ---
-name: Dr Bhakthi (Honda) Jayathilaka (she/her)
+name: Dr Bhakthi (Honda) Jayathilaka
 image: images/honda.jpg
 role: postdoc
 description: Postdoctoral Research Fellow
