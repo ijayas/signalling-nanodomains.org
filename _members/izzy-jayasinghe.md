@@ -1,5 +1,5 @@
 ---
-name: Dr Izzy Jayasinghe (she/her)
+name: Dr Izzy Jayasinghe
 image: images/izzy.jpg
 role: pi
 description: Associate Professor & Group Leader
