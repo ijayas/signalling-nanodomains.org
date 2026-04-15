@@ -1,5 +1,5 @@
 ---
-name: Dr Ralf Köhler (he/him)
+name: Dr Ralf Köhler
 image: images/ralf.jpg
 role: postdoc
 description: Postdoctoral Research Fellow
