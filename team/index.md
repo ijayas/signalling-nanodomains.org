@@ -9,6 +9,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group" %}
 {% include list.html data="members" component="portrait" filters="role: sp, group" %}
 
