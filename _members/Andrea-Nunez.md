@@ -1,6 +1,6 @@
 ---
-name: Andrea Nuñez
-image: 
+name: Dr Andrea Nuñez
+image: <i class="fa-thin fa-user"></i>
 role: ra
 description: Research Assistant
 aliases:
