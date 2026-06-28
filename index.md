@@ -1,11 +1,12 @@
 ---
 ---
 
-We are a team of biomedical and biophysical scientists based in UNSW Sydney who harness the latest single molecule, optical, and omic technologies to study cell signalling. Our goal is to use our expertise in how signals are transdueced, particularly inside cells, to shed light on the mechanisms driving pathophysiologies such as heart disease, movement disorders, and pain. Concurrently, we work on developing new methodologies that both we and our scientific community can utilise for advancing our understanding of disease and help drive the development of theraputic strategies.
+We are a team of biomedical and biophysical scientists based in UNSW Sydney committed to studying the mechanisms of signalling and pathology in mammalian cell and tissue systems. We approach this by harnessing and developing molecular scale optical microscopy and data pipelines.
+
 
 {%
   include figure.html
-  image="images/locations3.jpg"
+  image="images/scales2.png"
   width="100%"
 %}
 
